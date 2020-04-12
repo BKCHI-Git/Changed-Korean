@@ -1,5 +1,16 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
+不是这里！
+> CONTEXT: Map001/events/1/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/2/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/4/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/5/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/6/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/7/pages/2/0/Dialogue < UNTRANSLATED
+여기가 아니야!
+> END STRING
+
+> BEGIN STRING
 并没有能够打开的迹象
 > CONTEXT: Map001/events/3/pages/0/1/Dialogue < UNTRANSLATED
 열릴 기미가 보이지 않아..
