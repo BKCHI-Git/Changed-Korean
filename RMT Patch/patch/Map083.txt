@@ -1,19 +1,19 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 不要再继续走了
-> CONTEXT: Map083/events/53/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map083/events/53/pages/1/0/Dialogue
 멈추세요.
 > END STRING
 
 > BEGIN STRING
-我说了不要再继续向前走了
-> CONTEXT: Map083/events/53/pages/1/14/Dialogue < UNTRANSLATED
+我说了不要再继续走了
+> CONTEXT: Map083/events/53/pages/1/14/Dialogue
 더 이상 앞으로 나가지 말라고 했습니다.
 > END STRING
 
 > BEGIN STRING
 你是因为刚才的停电才醒来的吗
-> CONTEXT: Map083/events/53/pages/1/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map083/events/53/pages/1/16/Dialogue
 당신, 방금 정전으로 깨어났습니까?
 > END STRING
 
@@ -181,13 +181,13 @@
 
 > BEGIN STRING
 回去的门锁上了
-> CONTEXT: Map083/events/55/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map083/events/55/pages/0/1/Dialogue
 돌아가는 문이 잠겼다.
 > END STRING
 
 > BEGIN STRING
 未检测到在逃被验者，因电力不足，模式自动关闭
-> CONTEXT: Map083/events/57/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map083/events/57/pages/0/1/Dialogue
 [ 생명 신호가 감지되지 않습니다.
 전력 보존을 위해 시스템을 종료합니다. ]
 > END STRING

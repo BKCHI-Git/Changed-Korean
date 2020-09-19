@@ -1,135 +1,319 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
-枯干，曾经应是个盆栽
-> CONTEXT: Map022/events/7/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/77/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/173/pages/0/0/Dialogue < UNTRANSLATED
-
+MOON，顺时针，九十度角
+> CONTEXT: Map022/events/2/pages/0/1/Dialogue
+MOON, 시계방향, 90도 각도로
 > END STRING
 
 > BEGIN STRING
-其中一本书的封面被写上了字
-> CONTEXT: Map022/events/8/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/8/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/8/pages/2/0/Dialogue < UNTRANSLATED
-
+画着月球与地球的画
+> CONTEXT: Map022/events/6/pages/0/0/Dialogue
+달과 지구가 그려진 그림
 > END STRING
 
 > BEGIN STRING
-写着“MOON，九十度角”
-> CONTEXT: Map022/events/8/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/8/pages/1/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/8/pages/2/2/Dialogue < UNTRANSLATED
-
+会与密码有关吗？
+> CONTEXT: Map022/events/6/pages/0/2/Dialogue
+비밀번호와 관련있는걸까?
 > END STRING
 
 > BEGIN STRING
-和海报上的月亮有关系吗
-> CONTEXT: Map022/events/8/pages/1/4/Dialogue < UNTRANSLATED
-
+打不开，看来这里的人真的很喜欢锁门
+> CONTEXT: Map022/events/26/pages/0/1/Dialogue
+> CONTEXT: Map022/events/30/pages/0/1/Dialogue
+열 수가 없어, 여기 사람들은 
+문 잠그는 걸 정말 좋아하는거 같아
 > END STRING
 
 > BEGIN STRING
-把月亮转动九十度角？
-> CONTEXT: Map022/events/8/pages/2/4/Dialogue < UNTRANSLATED
-
+直觉告诉你，你不应该这样做，但你的好奇心驱使着你
+去找到这个脚印的源头
+> CONTEXT: Map022/events/26/pages/2/5/Dialogue
+> CONTEXT: Map022/events/30/pages/2/5/Dialogue
+직감은 당신이 이렇게 해서는 안 된다고 말했지만, 
+당신의 호기심은 이 발자국의 근원을 찾도록 부추겼다.
 > END STRING
 
 > BEGIN STRING
-精神食粮，目前来说是无用的东西
-> CONTEXT: Map022/events/33/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/34/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/35/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/33/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/34/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/35/pages/0/0/Dialogue < UNTRANSLATED
-
+抱着一丝疑虑，你踏入了房间
+> CONTEXT: Map022/events/26/pages/2/8/Dialogue
+> CONTEXT: Map022/events/30/pages/2/8/Dialogue
+일말의 의구심과 함께, 당신은 방에 발을 들여놓았다.
 > END STRING
 
 > BEGIN STRING
-满满一箱子小册子
-> CONTEXT: Map022/events/36/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/37/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/36/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/37/pages/0/0/Dialogue < UNTRANSLATED
+就如同你所担忧的，这是一个陷阱，而且是胶兽的陷阱
+> CONTEXT: Map022/events/26/pages/2/15/Dialogue
+> CONTEXT: Map022/events/30/pages/2/15/Dialogue
+당신이 걱정했던 것처럼, 이것은 덫이였고, 
+또한 점액짐승이 만든 함정이였다.
+> END STRING
 
+> BEGIN STRING
+你一脚踏入了一个由粘液构成的环，这个环的表面布满
+了由粘液构成的齿状尖刺
+> CONTEXT: Map022/events/26/pages/2/17/Dialogue
+> CONTEXT: Map022/events/30/pages/2/17/Dialogue
+당신은 점액으로 이루어진 고리에 발을 들여놓았고, 
+이 고리의 겉면은 점액으로 구성된 이빨 모양의 
+가시로 가득 차 있었다. 
+> END STRING
+
+> BEGIN STRING
+你很清楚的明白这代表着什么，这是一个由粘液伪装成
+的“捕兽夹”，而你就是踩中了陷阱的猎物，多么讽刺
+> CONTEXT: Map022/events/26/pages/2/20/Dialogue
+> CONTEXT: Map022/events/30/pages/2/20/Dialogue
+당신은 이게 무엇을 의미하는지 잘 알고 있었다, 
+이것은 점액으로 위장한 "짐승덫"이였다. 
+당신이 덫에 걸린 사냥감이라니, 얼마나 아이러니한가
+> END STRING
+
+> BEGIN STRING
+你愣在原地，马上就明白了现在的处境，你缓缓的想要
+挪开踏进环中的脚，但粘液“捕兽夹”并没有给你机会
+> CONTEXT: Map022/events/26/pages/2/27/Dialogue
+> CONTEXT: Map022/events/30/pages/2/27/Dialogue
+당신은 그 자리에 멍해져, 지금의 처지을 알아차려, 
+천천히 고리에 들어간 발을 옮기고 싶었지만, 
+점액 "짐승덫"은 기회를 주지 않았다.
+> END STRING
+
+> BEGIN STRING
+粘液“捕兽夹”猛然弹起，柔软的齿状尖刺完全无法伤
+害到你，但却能牢牢的黏住你的双腿
+> CONTEXT: Map022/events/26/pages/2/30/Dialogue
+> CONTEXT: Map022/events/30/pages/2/30/Dialogue
+점액 "짐승덫"이 불쑥 튀어 올랐고, 부드러운 
+가시이빨이 상처 없이, 두다리를 꽉 잡았다.
+> END STRING
+
+> BEGIN STRING
+大量的粘液以难以置信的速度开始向你的上身蔓延，你
+的双腿被严丝合缝的包裹住，一步也迈不开
+> CONTEXT: Map022/events/26/pages/2/37/Dialogue
+> CONTEXT: Map022/events/30/pages/2/37/Dialogue
+대량의 점액이 믿을 수 없는 속도로 당신의 상체를 
+향해 번지기 시작하고, 당신의 두 다리는 꽁꽁 싸여 
+한 걸음도 때지 못했다.
+> END STRING
+
+> BEGIN STRING
+你只能亲眼看着自己的双腿开始扭曲变形，变成了动物
+那样的骨骼结构，而这变化还在进一步扩散
+> CONTEXT: Map022/events/26/pages/2/40/Dialogue
+> CONTEXT: Map022/events/30/pages/2/40/Dialogue
+당신의 다리가 꼬이기 시작하면서 동물 뼈 같은 
+구조로 변하는 것을 직접 볼 수 밖에 없었고, 
+그 변화는 더 확산되고 있었다.
+> END STRING
+
+> BEGIN STRING
+粘液漫上脸庞，你的头部以下都在被粘液改造，你那双
+被粘液裹住的双腿的轮廓逐渐清晰了起来
+> CONTEXT: Map022/events/26/pages/2/47/Dialogue
+> CONTEXT: Map022/events/30/pages/2/47/Dialogue
+점액이 얼굴을 덮으며, 머리 아래는 모두 점액으로 
+개조되어, 점액으로 둘러싸인 두 다리의 윤곽이 
+점차 선명해지기 시작했다.
+> END STRING
+
+> BEGIN STRING
+你无法挣脱这完全没有实体的粘液，你的每一次挣扎只
+会让粘液四溅，你伸手去抓，粘液却从指缝间穿过
+> CONTEXT: Map022/events/26/pages/2/50/Dialogue
+> CONTEXT: Map022/events/30/pages/2/50/Dialogue
+당신은 이 실체가 없는 점액을 벗길 방법이 없었다, 
+당신의 몸부림은 매번 점액만 사방으로 튀게 할 뿐, 
+손을 뻗어 점액을 잡으려 했지만, 
+점액은 손가락 사이로 뚫고 지나갔다.
+> END STRING
+
+> BEGIN STRING
+你放弃了抵抗，闭上了双眼，粘液毫不留情的覆盖掉了
+你最后一丝皮肤，并迅速的对你的身体进行着改造
+> CONTEXT: Map022/events/26/pages/2/57/Dialogue
+> CONTEXT: Map022/events/30/pages/2/57/Dialogue
+당신은 저항을 포기하고 두 눈을 감았고, 
+점액은 마지막 피부를 가차없이 감싸며, 
+빠르게 당신의 몸을 개조하고 있었다.
+> END STRING
+
+> BEGIN STRING
+你的头发虽然没有被粘液覆盖，但也受到了变化的影响
+，你的发色越来越淡，而你的肚皮也呈现出了这个趋势
+> CONTEXT: Map022/events/26/pages/2/60/Dialogue
+> CONTEXT: Map022/events/30/pages/2/60/Dialogue
+당신의 머리카락은 점액으로 덮히지 않았지만, 
+변화의 영향을 받아 점점 더 옅어져 갔고, 
+당신의 배 부위도 이런 추세를 보이고 있었다.
+> END STRING
+
+> BEGIN STRING
+你的新“粘液皮肤”出现了一些眼熟的浅色斑点，你的
+手指、脚趾终于不再是黏连在一起的状态
+> CONTEXT: Map022/events/26/pages/2/67/Dialogue
+> CONTEXT: Map022/events/30/pages/2/67/Dialogue
+당신의 새로운 "점액 피부"에 눈에 익은 옅은 색의 
+반점이 생겼고, 당신의 손가락, 발가락은 결국 
+더 이상 서로 붙어 잇는 상태가 아니게 되었다.
+> END STRING
+
+> BEGIN STRING
+你伸出了自己的手指，却发现你的指关节末端变成了蹄
+状的硬邦邦的物质，你的脚趾也是
+> CONTEXT: Map022/events/26/pages/2/70/Dialogue
+> CONTEXT: Map022/events/30/pages/2/70/Dialogue
+당신은 자신의 손가락을 내밀었지만, 손가락 마디 
+끝은 발굽 모양의 딱딱한 물질로 변해갔고, 
+당신의 발가락도 마찬가지였다.
+> END STRING
+
+> BEGIN STRING
+一节短短的、毛茸茸的尾巴在趁你不注意的时候长了出
+来，两个小小的凸起也正从你的头顶冒出
+> CONTEXT: Map022/events/26/pages/2/73/Dialogue
+> CONTEXT: Map022/events/30/pages/2/73/Dialogue
+한 마디의 짧은, 보송보송한 꼬리가 조용히 
+생겨났고, 작은 두개의 돌기가 당신의 머리 위로 
+솟아오르고 있었다.
+> END STRING
+
+> BEGIN STRING
+改造完成了，你身上的粘液完全构成了你新的身体，这
+层“覆膜”将会永远的伴随着你，成为你的一部分
+> CONTEXT: Map022/events/26/pages/2/80/Dialogue
+> CONTEXT: Map022/events/30/pages/2/80/Dialogue
+개조가 끝나면, 점액이 당신의 몸을 완전히 
+새로 구성하고, 이 "코팅"은 영원히 당신의 
+일부가 될 것이다.
+> END STRING
+
+> BEGIN STRING
+你身上散布着一些明亮的淡色斑点，原本在你头顶的小
+凸起也成长成为了坚硬的巨大树枝状物质
+> CONTEXT: Map022/events/26/pages/2/83/Dialogue
+> CONTEXT: Map022/events/30/pages/2/83/Dialogue
+당신의 몸에 밝은 옅은 색의 반점이 퍼져갔고, 
+머리 위에 잇던 작은 돌기들도 거대하고 단단한 
+나뭇가지 모양의 뿔로 자라났다.
+> END STRING
+
+> BEGIN STRING
+你的手指、脚趾末端也变成了一样牢固的物质，看上去
+就像人类的手脚与蹄子融合了一样
+> CONTEXT: Map022/events/26/pages/2/86/Dialogue
+> CONTEXT: Map022/events/30/pages/2/86/Dialogue
+당신의 손가락, 발가락 끝도 마찬가지로 단단한 물질로 
+변해, 마치 인간의 손발과 발굽이 융합된 것처럼 보였다.
+> END STRING
+
+> BEGIN STRING
+显而易见，你变成了一只还蛮漂亮的胶兽鹿
+> CONTEXT: Map022/events/26/pages/2/89/Dialogue
+> CONTEXT: Map022/events/30/pages/2/89/Dialogue
+눈에 띄게, 당신은 아름다운 점액사슴이 되었다.
+> END STRING
+
+> BEGIN STRING
+一般而言，人类会设置捕兽夹来捉鹿，但这次，你中了
+胶兽鹿的陷阱，踩中了“捕兽夹”
+> CONTEXT: Map022/events/26/pages/2/91/Dialogue
+> CONTEXT: Map022/events/30/pages/2/91/Dialogue
+보통 사람은, 짐승덫을 만들어 사슴을 잡는데, 
+이번에는, 점액사슴의 함정에 빠져, "짐승덫"을 밟았다.
+> END STRING
+
+> BEGIN STRING
+你也因此与胶兽同化，成为了一只鹿，完全反了过来
+> CONTEXT: Map022/events/26/pages/2/94/Dialogue
+> CONTEXT: Map022/events/30/pages/2/94/Dialogue
+당신도 점액과 동화되어, 사슴이 되어, 
+완전히 거꾸로 되어버렸다.
+> END STRING
+
+> BEGIN STRING
+你脑中充斥着与你融合同化的那只胶兽的记忆，你抖抖
+长耳朵，抖抖短尾巴，这样的结局，还算可以接受
+> CONTEXT: Map022/events/26/pages/2/96/Dialogue
+> CONTEXT: Map022/events/30/pages/2/96/Dialogue
+당신 머리속엔 당신과 계약한 짐승의 기억이 
+가득해졌고, 긴 귀와, 짧은 꼬리를 한차례 털고 나니, 
+이런 결말은 그런대로 받아들일 만하다.
 > END STRING
 
 > BEGIN STRING
 内容有点幼稚的天文知识海报
-> CONTEXT: Map022/events/42/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/43/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/44/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map022/events/42/pages/0/0/Dialogue
+내용이 좀 유치한 천문학 포스터
 > END STRING
 
 > BEGIN STRING
-这台机器可以输入密码
-似乎是连接着右边的门
-> CONTEXT: Map022/events/47/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/47/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/47/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/45/pages/1/0/Dialogue < UNTRANSLATED
-
+从此处离开图书馆
+> CONTEXT: Map022/events/44/pages/0/0/Dialogue
+도서관으로부터 떠나는 곳
 > END STRING
 
 > BEGIN STRING
-密码足足有八位数，你想了想，目前关于八位数的密码
-似乎毫无线索，于是便放弃了输入
-> CONTEXT: Map022/events/47/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/47/pages/1/3/Dialogue < UNTRANSLATED
-
+这台机器上有一道深深的槽
+> CONTEXT: Map022/events/47/pages/0/0/Dialogue
+> CONTEXT: Map022/events/47/pages/1/0/Dialogue
+이 기계에는 깊은 홈이 있다.
 > END STRING
 
 > BEGIN STRING
-有人会知道密码吗……
-> CONTEXT: Map022/events/47/pages/1/6/Dialogue < UNTRANSLATED
-
+插入钥匙卡
+> CONTEXT: Map022/events/47/pages/1/2/Choice/0
+키 카드를 삽입한다.
 > END STRING
 
 > BEGIN STRING
-试着输入看看吧
-> CONTEXT: Map022/events/47/pages/2/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/45/pages/1/3/Dialogue < UNTRANSLATED
-
+什么也不做
+> CONTEXT: Map022/events/47/pages/1/2/Choice/1
+아무것도 하지 않는다.
 > END STRING
 
 > BEGIN STRING
-找找线索吧
-> CONTEXT: Map022/events/47/pages/2/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/45/pages/1/17/Dialogue < UNTRANSLATED
-
+已经解开了图书馆大门的锁
+> CONTEXT: Map022/events/47/pages/2/0/Dialogue
+이미 도서관 정문의 잠금을 풀었다.
 > END STRING
 
 > BEGIN STRING
-看来这里的人真的很喜欢锁门
-> CONTEXT: Map022/events/48/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/49/pages/0/0/Dialogue < UNTRANSLATED
-
+惊魂未定，但还好你仍安然无恙
+> CONTEXT: Map022/events/52/pages/0/0/Dialogue
+놀란 가슴이 아직 가라앉지 않았지만, 
+무사해서 다행이다.
 > END STRING
 
 > BEGIN STRING
-里面有踱步的声音……
-> CONTEXT: Map022/events/48/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/49/pages/2/0/Dialogue < UNTRANSLATED
-
+离开图书馆的道路完全无法通过，难道只能再去找那只
+自称“普罗”的黑色胶兽了吗
+> CONTEXT: Map022/events/52/pages/0/2/Dialogue
+도서관을 떠나는 길은 전혀 통과할 수 없는데, 
+역시 "푸로"라고 자칭하는 검은 점액짐승을 
+다시 찾아갈 수밖에 없는걸까
 > END STRING
 
 > BEGIN STRING
-……惊魂未定，但还好安然无恙
-> CONTEXT: Map022/events/52/pages/0/1/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-但刚才那里完全无法通过，找普罗商量一下……？
-> CONTEXT: Map022/events/52/pages/0/4/Dialogue < UNTRANSLATED
-
+或许，你可以信任他？
+> CONTEXT: Map022/events/52/pages/0/5/Dialogue
+어쩌면, 그를 믿어도 될까？
 > END STRING
 
 > BEGIN STRING
 你拼命的挣扎，从那只像是衣服一样的生物体内硬生生
 爬了出来，那个生物作罢逃走了
-> CONTEXT: Map022/events/54/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/54/pages/0/13/Dialogue
+당신은 필사적으로 발버둥쳐서, 
+옷처럼 생긴 그 생물체 안에서 억지로 기어나왔고, 
+그 생물체는 그만두고 도망쳤다.
+> END STRING
 
+> BEGIN STRING
+追随着奇怪的脚印，你一路回到了这里
+> CONTEXT: Map022/events/26/pages/2/3/Dialogue
+> CONTEXT: Map022/events/30/pages/2/3/Dialogue
+이상한 발자국을 따라가보니, 
+당신은 다시 이곳으로 돌아왔다
 > END STRING

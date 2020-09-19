@@ -1,11 +1,5 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
-锁住了
-> CONTEXT: Map061/events/1/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 太危险了…还是不要回去了
 > CONTEXT: Map061/events/2/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map061/events/3/pages/0/0/Dialogue < UNTRANSLATED
@@ -25,10 +19,10 @@
 > CONTEXT: Map061/events/6/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map060/events/170/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map061/events/39/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/196/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map059/events/164/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map059/events/170/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map059/events/171/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map060/events/196/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map058/events/85/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map058/events/86/pages/0/0/Dialogue < UNTRANSLATED
 
@@ -39,14 +33,14 @@
 > CONTEXT: Map061/events/7/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map061/events/12/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map060/events/171/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map061/events/37/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map060/events/172/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/37/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map061/events/38/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/197/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/198/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map059/events/172/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map059/events/173/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map060/events/197/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map059/events/174/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map060/events/198/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map059/events/175/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map059/events/176/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map059/events/177/pages/0/0/Dialogue < UNTRANSLATED
@@ -155,13 +149,13 @@
 > CONTEXT: Map059/events/109/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map061/events/29/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map061/events/30/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/173/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map061/events/31/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/174/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map061/events/32/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/175/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map061/events/34/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map061/events/35/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map060/events/173/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map060/events/174/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map060/events/175/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map060/events/207/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map060/events/208/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map060/events/209/pages/0/0/Dialogue < UNTRANSLATED
@@ -185,10 +179,10 @@
 > BEGIN STRING
 笔记本
 > CONTEXT: Map061/events/23/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map059/events/147/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map059/events/148/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map060/events/184/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map060/events/185/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/147/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/148/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map059/events/189/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map060/events/203/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map058/events/73/pages/0/0/Dialogue < UNTRANSLATED

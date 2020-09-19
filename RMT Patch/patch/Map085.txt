@@ -2,7 +2,7 @@
 > BEGIN STRING
 直到今天为纸，还是没有仁来图书馆…求你…给我一些
 回应好吗…那怕只是告诉我你还活着就可以了…
-> CONTEXT: Map085/events/14/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map085/events/14/pages/0/1/Dialogue
 오늘도 너는 도사관에 안 왔구나… 부탁할게… 
 네가 사라있다는 소식만이라도 좋으니까, 
 뭐라도 대답해줘…
@@ -11,7 +11,7 @@
 > BEGIN STRING
 一本旧日历，整个日历上的所有日期都被划了一道，直
 至日历的最后一页的最后一天
-> CONTEXT: Map085/events/15/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map085/events/15/pages/0/0/Dialogue
 오래된 달력 한 권.
 마지막 페이지, 마지막 날까지
 빠짐없이 그여 있다.
@@ -19,252 +19,246 @@
 
 > BEGIN STRING
 它还没有发现你
-> CONTEXT: Map085/events/16/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map085/events/16/pages/0/0/Dialogue
 그것은 아직 당신을 발견하지 못했다.
 > END STRING
 
 > BEGIN STRING
 它已经发现你了
-> CONTEXT: Map085/events/16/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map085/events/16/pages/1/0/Dialogue
 발각되었다!
 > END STRING
 
 > BEGIN STRING
 满的罐子
-> CONTEXT: Map085/events/18/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/28/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/29/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/31/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/32/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/33/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/42/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/43/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/44/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/45/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/46/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/47/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map085/events/18/pages/0/0/Dialogue
+> CONTEXT: Map085/events/29/pages/0/0/Dialogue
+> CONTEXT: Map085/events/31/pages/0/0/Dialogue
+> CONTEXT: Map085/events/32/pages/0/0/Dialogue
+> CONTEXT: Map085/events/33/pages/0/0/Dialogue
+> CONTEXT: Map085/events/42/pages/0/0/Dialogue
+> CONTEXT: Map085/events/43/pages/0/0/Dialogue
+> CONTEXT: Map085/events/44/pages/0/0/Dialogue
+> CONTEXT: Map085/events/45/pages/0/0/Dialogue
+> CONTEXT: Map085/events/46/pages/0/0/Dialogue
+> CONTEXT: Map085/events/47/pages/0/0/Dialogue
 가득 찬 깡통.
 > END STRING
 
 > BEGIN STRING
 推不动
-> CONTEXT: Map085/events/30/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/30/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/40/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/40/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/94/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/103/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/33/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/34/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/54/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/55/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/56/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/59/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/60/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/61/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/79/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/82/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/83/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/84/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/87/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/88/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/89/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/102/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/103/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/106/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map037/events/8/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map037/events/9/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map037/events/15/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map037/events/30/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/9/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/23/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/24/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/25/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map032/events/10/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map032/events/11/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map032/events/12/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map032/events/36/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map032/events/37/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map032/events/39/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map030/events/20/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map030/events/23/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map030/events/24/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/3/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/134/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/135/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/136/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/34/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/137/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/138/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/27/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/139/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/30/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/31/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/163/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/5/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/166/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/169/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/7/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/170/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/12/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/177/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/178/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/179/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/183/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/184/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/31/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/187/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/36/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/191/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/198/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/82/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/199/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/83/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map035/events/200/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/94/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/95/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/106/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/125/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/128/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/132/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/86/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/94/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/104/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/105/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/109/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/110/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/38/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/81/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/84/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/87/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/88/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/89/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/90/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/91/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/92/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/98/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/103/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/105/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/106/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/3/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/4/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/7/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/8/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/10/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/11/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/13/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/14/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/20/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/25/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/28/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/33/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/55/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/68/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/76/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/77/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/77/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/78/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/88/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/91/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/105/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/106/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/112/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/114/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/119/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/122/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/124/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/127/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/136/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/137/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/140/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/141/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/142/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/191/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/192/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/196/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/197/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/199/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/214/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/219/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/225/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/242/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/245/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/251/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/267/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/73/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/75/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/76/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/77/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/78/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/87/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/90/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/93/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/98/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/99/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/100/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/104/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/312/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/105/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/315/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/317/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/319/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/321/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/322/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/343/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/344/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/371/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/405/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/406/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/414/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/415/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/417/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/419/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/222/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/223/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map085/events/30/pages/0/0/Dialogue
+> CONTEXT: Map085/events/30/pages/1/0/Dialogue
+> CONTEXT: Map085/events/40/pages/0/0/Dialogue
+> CONTEXT: Map085/events/40/pages/1/0/Dialogue
+> CONTEXT: Map085/events/94/pages/2/0/Dialogue
+> CONTEXT: Map085/events/103/pages/0/0/Dialogue
+> CONTEXT: Map053/events/33/pages/0/0/Dialogue
+> CONTEXT: Map053/events/34/pages/0/0/Dialogue
+> CONTEXT: Map053/events/54/pages/0/0/Dialogue
+> CONTEXT: Map053/events/55/pages/0/0/Dialogue
+> CONTEXT: Map053/events/56/pages/0/0/Dialogue
+> CONTEXT: Map053/events/59/pages/0/0/Dialogue
+> CONTEXT: Map053/events/60/pages/0/0/Dialogue
+> CONTEXT: Map053/events/61/pages/0/0/Dialogue
+> CONTEXT: Map053/events/79/pages/0/0/Dialogue
+> CONTEXT: Map053/events/82/pages/0/0/Dialogue
+> CONTEXT: Map053/events/83/pages/0/0/Dialogue
+> CONTEXT: Map053/events/84/pages/0/0/Dialogue
+> CONTEXT: Map053/events/87/pages/0/0/Dialogue
+> CONTEXT: Map053/events/88/pages/0/0/Dialogue
+> CONTEXT: Map053/events/89/pages/0/0/Dialogue
+> CONTEXT: Map053/events/102/pages/0/0/Dialogue
+> CONTEXT: Map053/events/103/pages/0/0/Dialogue
+> CONTEXT: Map053/events/106/pages/0/0/Dialogue
+> CONTEXT: Map037/events/8/pages/0/0/Dialogue
+> CONTEXT: Map037/events/9/pages/0/0/Dialogue
+> CONTEXT: Map037/events/15/pages/0/0/Dialogue
+> CONTEXT: Map035/events/9/pages/0/0/Dialogue
+> CONTEXT: Map035/events/23/pages/0/0/Dialogue
+> CONTEXT: Map035/events/24/pages/0/0/Dialogue
+> CONTEXT: Map035/events/25/pages/0/0/Dialogue
+> CONTEXT: Map037/events/30/pages/0/0/Dialogue
+> CONTEXT: Map032/events/11/pages/0/0/Dialogue
+> CONTEXT: Map032/events/12/pages/0/0/Dialogue
+> CONTEXT: Map032/events/36/pages/0/0/Dialogue
+> CONTEXT: Map032/events/37/pages/0/0/Dialogue
+> CONTEXT: Map032/events/39/pages/0/0/Dialogue
+> CONTEXT: Map030/events/20/pages/0/0/Dialogue
+> CONTEXT: Map030/events/23/pages/0/0/Dialogue
+> CONTEXT: Map030/events/24/pages/0/0/Dialogue
+> CONTEXT: Map028/events/3/pages/0/0/Dialogue
+> CONTEXT: Map035/events/134/pages/0/0/Dialogue
+> CONTEXT: Map035/events/135/pages/0/0/Dialogue
+> CONTEXT: Map035/events/136/pages/0/0/Dialogue
+> CONTEXT: Map035/events/137/pages/0/0/Dialogue
+> CONTEXT: Map035/events/138/pages/0/0/Dialogue
+> CONTEXT: Map035/events/139/pages/0/0/Dialogue
+> CONTEXT: Map028/events/34/pages/0/0/Dialogue
+> CONTEXT: Map035/events/163/pages/0/0/Dialogue
+> CONTEXT: Map035/events/166/pages/0/0/Dialogue
+> CONTEXT: Map035/events/169/pages/0/0/Dialogue
+> CONTEXT: Map035/events/170/pages/0/0/Dialogue
+> CONTEXT: Map026/events/5/pages/0/0/Dialogue
+> CONTEXT: Map026/events/12/pages/0/0/Dialogue
+> CONTEXT: Map035/events/177/pages/0/0/Dialogue
+> CONTEXT: Map035/events/178/pages/0/0/Dialogue
+> CONTEXT: Map035/events/179/pages/0/0/Dialogue
+> CONTEXT: Map027/events/28/pages/0/0/Dialogue
+> CONTEXT: Map027/events/29/pages/0/0/Dialogue
+> CONTEXT: Map035/events/183/pages/0/0/Dialogue
+> CONTEXT: Map027/events/30/pages/0/0/Dialogue
+> CONTEXT: Map035/events/184/pages/0/0/Dialogue
+> CONTEXT: Map026/events/31/pages/0/0/Dialogue
+> CONTEXT: Map027/events/31/pages/0/0/Dialogue
+> CONTEXT: Map035/events/187/pages/0/0/Dialogue
+> CONTEXT: Map026/events/36/pages/0/0/Dialogue
+> CONTEXT: Map035/events/191/pages/0/0/Dialogue
+> CONTEXT: Map027/events/35/pages/0/0/Dialogue
+> CONTEXT: Map035/events/198/pages/0/0/Dialogue
+> CONTEXT: Map035/events/199/pages/0/0/Dialogue
+> CONTEXT: Map035/events/200/pages/0/0/Dialogue
+> CONTEXT: Map027/events/51/pages/0/0/Dialogue
+> CONTEXT: Map027/events/52/pages/0/0/Dialogue
+> CONTEXT: Map027/events/70/pages/0/0/Dialogue
+> CONTEXT: Map027/events/71/pages/0/0/Dialogue
+> CONTEXT: Map027/events/72/pages/0/0/Dialogue
+> CONTEXT: Map027/events/73/pages/0/0/Dialogue
+> CONTEXT: Map027/events/74/pages/0/0/Dialogue
+> CONTEXT: Map027/events/75/pages/0/0/Dialogue
+> CONTEXT: Map027/events/82/pages/0/0/Dialogue
+> CONTEXT: Map027/events/83/pages/0/0/Dialogue
+> CONTEXT: Map027/events/124/pages/0/0/Dialogue
+> CONTEXT: Map024/events/82/pages/0/0/Dialogue
+> CONTEXT: Map024/events/84/pages/0/0/Dialogue
+> CONTEXT: Map024/events/85/pages/0/0/Dialogue
+> CONTEXT: Map024/events/99/pages/0/0/Dialogue
+> CONTEXT: Map024/events/104/pages/0/0/Dialogue
+> CONTEXT: Map024/events/109/pages/0/0/Dialogue
+> CONTEXT: Map024/events/110/pages/0/0/Dialogue
+> CONTEXT: Map027/events/191/pages/0/0/Dialogue
+> CONTEXT: Map027/events/192/pages/0/0/Dialogue
+> CONTEXT: Map027/events/193/pages/0/0/Dialogue
+> CONTEXT: Map027/events/194/pages/0/0/Dialogue
+> CONTEXT: Map027/events/201/pages/0/0/Dialogue
+> CONTEXT: Map021/events/81/pages/0/0/Dialogue
+> CONTEXT: Map021/events/84/pages/0/0/Dialogue
+> CONTEXT: Map021/events/87/pages/0/0/Dialogue
+> CONTEXT: Map021/events/88/pages/0/0/Dialogue
+> CONTEXT: Map021/events/89/pages/0/0/Dialogue
+> CONTEXT: Map021/events/90/pages/0/0/Dialogue
+> CONTEXT: Map021/events/91/pages/0/0/Dialogue
+> CONTEXT: Map021/events/92/pages/0/0/Dialogue
+> CONTEXT: Map021/events/98/pages/0/0/Dialogue
+> CONTEXT: Map021/events/103/pages/0/0/Dialogue
+> CONTEXT: Map021/events/105/pages/0/0/Dialogue
+> CONTEXT: Map021/events/106/pages/0/0/Dialogue
+> CONTEXT: Map014/events/3/pages/0/0/Dialogue
+> CONTEXT: Map014/events/4/pages/0/0/Dialogue
+> CONTEXT: Map014/events/7/pages/0/0/Dialogue
+> CONTEXT: Map014/events/8/pages/0/0/Dialogue
+> CONTEXT: Map014/events/10/pages/0/0/Dialogue
+> CONTEXT: Map014/events/11/pages/0/0/Dialogue
+> CONTEXT: Map014/events/13/pages/0/0/Dialogue
+> CONTEXT: Map014/events/19/pages/0/0/Dialogue
+> CONTEXT: Map014/events/20/pages/0/0/Dialogue
+> CONTEXT: Map014/events/28/pages/0/0/Dialogue
+> CONTEXT: Map014/events/33/pages/0/0/Dialogue
+> CONTEXT: Map014/events/68/pages/0/0/Dialogue
+> CONTEXT: Map014/events/76/pages/0/0/Dialogue
+> CONTEXT: Map014/events/77/pages/0/0/Dialogue
+> CONTEXT: Map014/events/77/pages/1/0/Dialogue
+> CONTEXT: Map014/events/106/pages/0/0/Dialogue
+> CONTEXT: Map014/events/122/pages/0/0/Dialogue
+> CONTEXT: Map014/events/124/pages/0/0/Dialogue
+> CONTEXT: Map014/events/136/pages/0/0/Dialogue
+> CONTEXT: Map014/events/137/pages/0/0/Dialogue
+> CONTEXT: Map014/events/191/pages/0/0/Dialogue
+> CONTEXT: Map014/events/197/pages/0/0/Dialogue
+> CONTEXT: Map015/events/73/pages/0/0/Dialogue
+> CONTEXT: Map015/events/75/pages/0/0/Dialogue
+> CONTEXT: Map015/events/76/pages/0/0/Dialogue
+> CONTEXT: Map015/events/78/pages/0/0/Dialogue
+> CONTEXT: Map015/events/87/pages/0/0/Dialogue
+> CONTEXT: Map014/events/214/pages/0/0/Dialogue
+> CONTEXT: Map015/events/98/pages/0/0/Dialogue
+> CONTEXT: Map014/events/219/pages/0/0/Dialogue
+> CONTEXT: Map015/events/99/pages/0/0/Dialogue
+> CONTEXT: Map015/events/100/pages/0/0/Dialogue
+> CONTEXT: Map015/events/104/pages/0/0/Dialogue
+> CONTEXT: Map015/events/105/pages/0/0/Dialogue
+> CONTEXT: Map014/events/312/pages/0/0/Dialogue
+> CONTEXT: Map014/events/317/pages/0/0/Dialogue
+> CONTEXT: Map014/events/321/pages/0/0/Dialogue
+> CONTEXT: Map014/events/322/pages/0/0/Dialogue
+> CONTEXT: Map014/events/341/pages/0/0/Dialogue
+> CONTEXT: Map014/events/343/pages/0/0/Dialogue
+> CONTEXT: Map014/events/344/pages/0/0/Dialogue
+> CONTEXT: Map014/events/371/pages/0/0/Dialogue
+> CONTEXT: Map014/events/406/pages/0/0/Dialogue
+> CONTEXT: Map014/events/417/pages/0/0/Dialogue
+> CONTEXT: Map028/events/36/pages/0/0/Dialogue
+> CONTEXT: Map028/events/38/pages/0/0/Dialogue
+> CONTEXT: Map028/events/44/pages/0/0/Dialogue
+> CONTEXT: Map028/events/45/pages/0/0/Dialogue
+> CONTEXT: Map028/events/57/pages/0/0/Dialogue
+> CONTEXT: Map028/events/60/pages/0/0/Dialogue
+> CONTEXT: Map028/events/61/pages/0/0/Dialogue
+> CONTEXT: Map026/events/37/pages/0/0/Dialogue
+> CONTEXT: Map015/events/81/pages/0/0/Dialogue
+> CONTEXT: Map015/events/140/pages/0/0/Dialogue
+> CONTEXT: Map015/events/142/pages/0/0/Dialogue
 아무리 밀어도 움직이지 않아.
 > END STRING
 
 > BEGIN STRING
 或许…可以借助那些黑色胶兽的力量来推开
-> CONTEXT: Map085/events/30/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/30/pages/1/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/40/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/40/pages/1/2/Dialogue < UNTRANSLATED
-어쩌면.. 저 검은 라텍스 생물들의 힘으로
-밀어낼 수 있을지도...?
+> CONTEXT: Map085/events/30/pages/0/2/Dialogue
+> CONTEXT: Map085/events/30/pages/1/2/Dialogue
+> CONTEXT: Map085/events/40/pages/0/2/Dialogue
+> CONTEXT: Map085/events/40/pages/1/2/Dialogue
+어쩌면… 저 검은 라텍스 생물들의 힘으로
+밀어낼 수 있을지도…?
+> END STRING
+
+> BEGIN STRING
+你可以先吸引一只黑色胶兽来这儿附近
+> CONTEXT: Map085/events/30/pages/0/4/Dialogue
+> CONTEXT: Map085/events/40/pages/0/4/Dialogue
+당신은 우선 검은 점액짐승 한 마리를
+여기 근처에 유인할 수 있다.
 > END STRING
 
 > BEGIN STRING
 那只在追求你的气味的黑色胶兽或许可以帮你这个忙
-> CONTEXT: Map085/events/30/pages/1/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/40/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map085/events/30/pages/1/4/Dialogue
+> CONTEXT: Map085/events/40/pages/1/4/Dialogue
 당신의 냄새를 추적하는 저 생물이
 오히려 당신을 도울지도 모른다.
 > END STRING
 
 > BEGIN STRING
 只要你把它引到这里的话
-> CONTEXT: Map085/events/30/pages/1/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/40/pages/1/6/Dialogue < UNTRANSLATED
-..물론 당신이 그것을 여기로 유인해온다면.
+> CONTEXT: Map085/events/30/pages/1/6/Dialogue
+> CONTEXT: Map085/events/40/pages/1/6/Dialogue
+물론 여기까지 유인해 올 수 있다면
 > END STRING
 
 > BEGIN STRING
 笨重的铁箱挡住了前进的去路
-> CONTEXT: Map085/events/109/pages/0/13/Dialogue
+> CONTEXT: Map085/events/109/pages/0/14/Dialogue
 육중한 철 상자가 지나갈 진로를 막고있다.
 > END STRING
 
 > BEGIN STRING
 你知道以自己的力量是不可能搬开这个箱子的
-> CONTEXT: Map085/events/109/pages/0/15/Dialogue
+> CONTEXT: Map085/events/109/pages/0/16/Dialogue
 당신은 자신의 힘으로는 상자를 
 옮길 수 없다는 것을 알고 있다.
 > END STRING
 
 > BEGIN STRING
 想想别的办法吧
-> CONTEXT: Map085/events/109/pages/0/20/Dialogue
+> CONTEXT: Map085/events/109/pages/0/21/Dialogue
 다른 방법을 생각해보자
 > END STRING

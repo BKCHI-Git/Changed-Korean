@@ -8,8 +8,6 @@
 > BEGIN STRING
 没能打开
 > CONTEXT: Map037/events/3/pages/0/13/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/47/pages/2/15/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/45/pages/1/15/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -22,8 +20,6 @@
 > BEGIN STRING
 已经解开了
 > CONTEXT: Map037/events/3/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/47/pages/3/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/45/pages/2/0/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -107,30 +103,32 @@
 
 > BEGIN STRING
 上面写着全球各地都有发生不明原因的失踪案件
-> CONTEXT: Map037/events/26/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map033/events/32/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map037/events/26/pages/0/0/Dialogue
+> CONTEXT: Map033/events/32/pages/0/0/Dialogue
+위에는 전 세계 각지에서 원인을 알 수 없는 
+실종사건이 발생하고 있다고 쓰여 있다.
 > END STRING
 
 > BEGIN STRING
 “失踪者的普遍特点是不常与人交流，宅男为主”
-> CONTEXT: Map037/events/26/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map033/events/32/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map037/events/26/pages/0/2/Dialogue
+> CONTEXT: Map033/events/32/pages/0/2/Dialogue
+"실종자의 보편적인 특징은 사람과 자주 
+교류하지 않는, 집돌이 위주이다"
 > END STRING
 
 > BEGIN STRING
 还有一篇是关于冰川融化的报道
-> CONTEXT: Map037/events/26/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map033/events/32/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map037/events/26/pages/0/4/Dialogue
+> CONTEXT: Map033/events/32/pages/0/4/Dialogue
+또 한 편은 빙하가 녹는 것에 관한 보도이다.
 > END STRING
 
 > BEGIN STRING
 紧挨着的就是汽车广告
-> CONTEXT: Map037/events/26/pages/0/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map033/events/32/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map037/events/26/pages/0/6/Dialogue
+> CONTEXT: Map033/events/32/pages/0/6/Dialogue
+바로 옆에 있는 것은 자동차 광고다.
 > END STRING
 
 > BEGIN STRING

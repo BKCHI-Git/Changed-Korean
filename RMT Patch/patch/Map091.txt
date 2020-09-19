@@ -120,72 +120,6 @@
 > END STRING
 
 > BEGIN STRING
-巨大结晶
-> CONTEXT: Map091/events/11/pages/0/0/Dialogue
-> CONTEXT: Map091/events/12/pages/0/0/Dialogue
-> CONTEXT: Map092/events/16/pages/0/0/Dialogue
-> CONTEXT: Map092/events/17/pages/0/0/Dialogue
-> CONTEXT: Map091/events/38/pages/0/0/Dialogue
-> CONTEXT: Map091/events/60/pages/0/0/Dialogue
-> CONTEXT: Map091/events/86/pages/0/0/Dialogue
-> CONTEXT: Map091/events/89/pages/0/0/Dialogue
-> CONTEXT: Map093/events/60/pages/0/0/Dialogue
-> CONTEXT: Map089/events/54/pages/0/0/Dialogue
-> CONTEXT: Map093/events/61/pages/0/0/Dialogue
-> CONTEXT: Map089/events/56/pages/0/0/Dialogue
-> CONTEXT: Map089/events/58/pages/0/0/Dialogue
-> CONTEXT: Map089/events/59/pages/0/0/Dialogue
-> CONTEXT: Map089/events/60/pages/0/0/Dialogue
-> CONTEXT: Map089/events/61/pages/0/0/Dialogue
-> CONTEXT: Map089/events/62/pages/0/0/Dialogue
-> CONTEXT: Map088/events/21/pages/0/0/Dialogue
-> CONTEXT: Map089/events/63/pages/0/0/Dialogue
-> CONTEXT: Map091/events/152/pages/0/0/Dialogue
-> CONTEXT: Map088/events/22/pages/0/0/Dialogue
-> CONTEXT: Map089/events/64/pages/0/0/Dialogue
-> CONTEXT: Map089/events/65/pages/0/0/Dialogue
-> CONTEXT: Map091/events/153/pages/0/0/Dialogue
-> CONTEXT: Map088/events/24/pages/0/0/Dialogue
-> CONTEXT: Map093/events/79/pages/0/0/Dialogue
-> CONTEXT: Map093/events/85/pages/0/0/Dialogue
-> CONTEXT: Map093/events/93/pages/0/0/Dialogue
-> CONTEXT: Map093/events/94/pages/0/0/Dialogue
-> CONTEXT: Map088/events/32/pages/0/0/Dialogue
-> CONTEXT: Map093/events/99/pages/0/0/Dialogue
-> CONTEXT: Map088/events/36/pages/0/0/Dialogue
-> CONTEXT: Map088/events/54/pages/0/0/Dialogue
-> CONTEXT: Map088/events/74/pages/0/0/Dialogue
-> CONTEXT: Map089/events/178/pages/0/0/Dialogue
-> CONTEXT: Map089/events/180/pages/0/0/Dialogue
-> CONTEXT: Map088/events/98/pages/0/0/Dialogue
-> CONTEXT: Map088/events/105/pages/0/0/Dialogue
-> CONTEXT: Map088/events/106/pages/0/0/Dialogue
-> CONTEXT: Map019/events/49/pages/0/0/Dialogue
-> CONTEXT: Map019/events/87/pages/0/0/Dialogue
-> CONTEXT: Map019/events/88/pages/0/0/Dialogue
-> CONTEXT: Map019/events/89/pages/0/0/Dialogue
-> CONTEXT: Map019/events/90/pages/0/0/Dialogue
-> CONTEXT: Map019/events/91/pages/0/0/Dialogue
-> CONTEXT: Map019/events/92/pages/0/0/Dialogue
-> CONTEXT: Map019/events/93/pages/0/0/Dialogue
-> CONTEXT: Map019/events/94/pages/0/0/Dialogue
-> CONTEXT: Map019/events/95/pages/0/0/Dialogue
-> CONTEXT: Map019/events/96/pages/0/0/Dialogue
-> CONTEXT: Map016/events/28/pages/0/0/Dialogue
-> CONTEXT: Map016/events/73/pages/0/0/Dialogue
-> CONTEXT: Map016/events/96/pages/0/0/Dialogue
-> CONTEXT: Map016/events/141/pages/0/0/Dialogue
-> CONTEXT: Map016/events/182/pages/0/0/Dialogue
-> CONTEXT: Map016/events/189/pages/0/0/Dialogue
-> CONTEXT: Map016/events/262/pages/0/0/Dialogue
-> CONTEXT: Map016/events/268/pages/0/0/Dialogue
-> CONTEXT: Map007/events/19/pages/0/0/Dialogue
-> CONTEXT: Map007/events/30/pages/0/0/Dialogue
-> CONTEXT: Map007/events/102/pages/0/0/Dialogue
-거대한 결정
-> END STRING
-
-> BEGIN STRING
 这片区育生活着的黑色胶兽，它们的外帽形象是前所未
 右的，它们长着角，有些还长着大翅膀，我曾从书上看
 到过，像这样的复合形生物，被人类程之为“龙”，它
@@ -260,7 +194,7 @@
 
 > BEGIN STRING
 如此奇妙的画面可不是每天都能看到的
-> CONTEXT: Map091/events/168/pages/0/284/Dialogue
+> CONTEXT: Map091/events/168/pages/0/285/Dialogue
 이렇게 기묘한 장면은 매일
 볼 수 있는게 아니야
 > END STRING

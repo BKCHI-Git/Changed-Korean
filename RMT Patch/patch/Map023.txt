@@ -1,81 +1,81 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 呃，只是废纸罢了
-> CONTEXT: Map023/events/3/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/3/pages/0/0/Dialogue
 어, 그냥 폐지일 뿐이다.
 > END STRING
 
 > BEGIN STRING
 呃，只是垃圾罢了
-> CONTEXT: Map023/events/6/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/6/pages/0/0/Dialogue
 으음, 그냥 쓰레기일 뿐이다.
 > END STRING
 
 > BEGIN STRING
 呃，只是纸团罢了
-> CONTEXT: Map023/events/8/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/8/pages/0/0/Dialogue
 으응, 종이 뭉치일 뿐이다.
 > END STRING
 
 > BEGIN STRING
 里面有东西在动…
-> CONTEXT: Map023/events/11/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/12/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/55/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/56/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/57/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/64/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/87/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/88/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/89/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/142/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/143/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/144/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/146/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/161/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/166/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/167/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/168/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/169/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/181/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/182/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/208/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/11/pages/0/0/Dialogue
+> CONTEXT: Map023/events/12/pages/0/0/Dialogue
+> CONTEXT: Map023/events/55/pages/0/0/Dialogue
+> CONTEXT: Map023/events/56/pages/0/0/Dialogue
+> CONTEXT: Map023/events/57/pages/0/0/Dialogue
+> CONTEXT: Map023/events/64/pages/0/0/Dialogue
+> CONTEXT: Map023/events/87/pages/0/0/Dialogue
+> CONTEXT: Map023/events/88/pages/0/0/Dialogue
+> CONTEXT: Map023/events/89/pages/0/0/Dialogue
+> CONTEXT: Map023/events/142/pages/0/0/Dialogue
+> CONTEXT: Map023/events/143/pages/0/0/Dialogue
+> CONTEXT: Map023/events/144/pages/0/0/Dialogue
+> CONTEXT: Map023/events/146/pages/0/0/Dialogue
+> CONTEXT: Map023/events/161/pages/0/0/Dialogue
+> CONTEXT: Map023/events/166/pages/0/0/Dialogue
+> CONTEXT: Map023/events/167/pages/0/0/Dialogue
+> CONTEXT: Map023/events/168/pages/0/0/Dialogue
+> CONTEXT: Map023/events/169/pages/0/0/Dialogue
+> CONTEXT: Map023/events/181/pages/0/0/Dialogue
+> CONTEXT: Map023/events/182/pages/0/0/Dialogue
+> CONTEXT: Map023/events/208/pages/0/0/Dialogue
 안에 뭔가가 움직이고 있어…
 > END STRING
 
 > BEGIN STRING
 我的红色记号笔佣光了…锁以我改用了绿色的！
-> CONTEXT: Map023/events/13/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/13/pages/0/1/Dialogue
 빨간색 마커를 다 썻서… 
 그래서 조록색으로 바꿨어!
 > END STRING
 
 > BEGIN STRING
 纸团
-> CONTEXT: Map023/events/27/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/32/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/27/pages/0/0/Dialogue
+> CONTEXT: Map010/events/32/pages/0/0/Dialogue
 종이 뭉치다.
 > END STRING
 
 > BEGIN STRING
 只有这个空了
-> CONTEXT: Map023/events/33/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/34/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/164/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/199/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/205/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/33/pages/0/0/Dialogue
+> CONTEXT: Map023/events/34/pages/0/0/Dialogue
+> CONTEXT: Map023/events/164/pages/0/0/Dialogue
+> CONTEXT: Map023/events/199/pages/0/0/Dialogue
+> CONTEXT: Map023/events/205/pages/0/0/Dialogue
 이것만은 텅 비었다.
 > END STRING
 
 > BEGIN STRING
 呃，只是废纸
-> CONTEXT: Map023/events/47/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/47/pages/0/0/Dialogue
 으응, 휴지일 뿐이야.
 > END STRING
 
 > BEGIN STRING
 一个面具
-> CONTEXT: Map023/events/200/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/200/pages/0/0/Dialogue
 마스크가 하나 있다.
 > END STRING
 
@@ -219,27 +219,27 @@
 
 > BEGIN STRING
 呃，只是个杯子
-> CONTEXT: Map023/events/217/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/233/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/217/pages/0/0/Dialogue
+> CONTEXT: Map023/events/233/pages/0/0/Dialogue
 으응, 그냥 컵이다.
 > END STRING
 
 > BEGIN STRING
 满满一杯香甜可口的空气
-> CONTEXT: Map023/events/236/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/236/pages/0/0/Dialogue
 향기롭고 맛있는 공기가 한 잔 가득하다.
 > END STRING
 
 > BEGIN STRING
 这东西有自我意识！
-> CONTEXT: Map023/events/238/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/238/pages/0/1/Dialogue
 이것에겐 자아의식이 있다!
 > END STRING
 
 > BEGIN STRING
 数次试验后我们发现被验者的行为和思想都会被这东西
 影响，极大的影响！
-> CONTEXT: Map023/events/238/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/238/pages/0/4/Dialogue
 몇 번의 실험으로, 우린 피실험자의 행동과 생각 모두
 이것의 영향을 받는다는 사실을 발견했다. 
 그것도 심각한 영향을!
@@ -248,7 +248,7 @@
 > BEGIN STRING
 受到同化或寄生的人类，虽然已经免疫病毒，但心智也
 被控制、改变，不再是原来的自己
-> CONTEXT: Map023/events/238/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/238/pages/0/8/Dialogue
 동화되거나 기생당한 인간은, 바이러스에 면역이 
 생기지만, 지능마저 장악당하고, 바뀌어, 더는 
 원래의 자신이 아니게 된다.
@@ -257,7 +257,7 @@
 > BEGIN STRING
 他们记得发生的所有事，还知道自己是谁，只不过就是
 …他们已不再是自己了
-> CONTEXT: Map023/events/238/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/238/pages/0/12/Dialogue
 다만 그들은 무슨 일이 있었는지, 자신이 
 누구였는지 기억하고있다. 그저… 그들이 
 더이상 그들 자신이 아닐뿐
@@ -265,7 +265,7 @@
 
 > BEGIN STRING
 他们的大脑、思想已经完完全全和胶兽融合了
-> CONTEXT: Map023/events/238/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/238/pages/0/16/Dialogue
 그들의 뇌는, 이미 완벽하게 기생생물과 
 하나가 되었다.
 > END STRING
@@ -274,7 +274,7 @@
 黑色的胶兽有着如同面具一样的“结晶”，这个“结晶
 ”就像细胞中的细胞核一样重要，在它们的生命走向终
 结的时候，这个“结晶”会在原地“生根”变成结晶柱
-> CONTEXT: Map023/events/240/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/240/pages/0/1/Dialogue
 검은 점액 짐승은 가면과 같은 "결정"을 가집니다. 
 이 "결정"은 세포의 세포핵처럼 중요한데, 그들의 
 생명이 끝에 달할 때, 이 "결정"은 제자리에 
@@ -284,7 +284,7 @@
 > BEGIN STRING
 结晶柱看似透明坚硬，但实际上是由大量黑色粘液组成
 的压缩体
-> CONTEXT: Map023/events/240/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/240/pages/0/6/Dialogue
 결정기둥은 투명하고 단단해 보이지만, 실제로는 
 많은 양의 검은 점액으로 이루어진 압축체 입니다.
 > END STRING
@@ -292,7 +292,7 @@
 > BEGIN STRING
 时机成熟的时候，结晶柱会爆裂，分化成为数个新的黑
 色胶兽，这便是它们的繁殖方式之一了
-> CONTEXT: Map023/events/240/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/240/pages/0/10/Dialogue
 때가 되면 결정기둥이 터져, 여러개의 새로운 검은 
 점액으로 분화하는데, 이것이 바로 그것들의 
 번식 방식 중 하나입니다.
@@ -301,7 +301,7 @@
 > BEGIN STRING
 据我的观察，它们的结晶与狼的头骨极其相似，这也验
 证了它们为何如此执着的拟态成狼的外观了
-> CONTEXT: Map023/events/240/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/240/pages/0/14/Dialogue
 관찰에 의하면, 그것들의 결정체는 늑대의 두개골과 
 매우 유사하며, 이것은 왜 그것들이 동일하게 늑대의 
 외형으로 의태하는지 증명해 줍니다. 
@@ -312,7 +312,7 @@
 我所熊想到的能够帮助你活下去的建义都写了下来，我
 知道措别字很多，但你一定要看看我的键议，拜托了，
 请你一定要来…我相信我的努力一定会梆助到你的！
-> CONTEXT: Map023/events/242/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/242/pages/0/1/Dialogue
 내가 찾을 수 있는 연구자료들은 점부 길가에 붙여놨어. 
 네가 사라남도록 도와줄 수 있는 조언도 최대한 써놨고. 
 나도 틀린 글자가 많다는 건 알아. 그래도 제발 화긴해줘. 
@@ -322,6 +322,6 @@
 
 > BEGIN STRING
 不知道布的下面是什么
-> CONTEXT: Map023/events/245/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/245/pages/0/0/Dialogue
 천 아래에 무엇이 있는지 모르겠다.
 > END STRING

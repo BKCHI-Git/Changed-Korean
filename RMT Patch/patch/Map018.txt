@@ -1,128 +1,180 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
-这个看起来很有智慧的生物似乎肯定了你对于求生的渴望
-> CONTEXT: Map018/events/1/pages/6/16/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-他点了点头，但你并不知道是什么意思
-> CONTEXT: Map018/events/1/pages/6/18/Dialogue < UNTRANSLATED
-
+自从 那次 暴动后
+> CONTEXT: Map018/events/1/pages/2/5/Dialogue
+시작부터 그때 폭동후
 > END STRING
 
 > BEGIN STRING
 很久 没见过 人类了
-> CONTEXT: Map018/events/1/pages/7/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/1/pages/2/8/Dialogue
+오래 못보았다 인간을
 > END STRING
 
 > BEGIN STRING
-你 决心
-> CONTEXT: Map018/events/1/pages/7/10/Dialogue < UNTRANSLATED
-
+你 有毅力 也很 聪明
+> CONTEXT: Map018/events/1/pages/2/14/Dialogue
+너 끈기있다 아주 총명
 > END STRING
 
 > BEGIN STRING
-允许你 通过
-> CONTEXT: Map018/events/1/pages/7/13/Dialogue < UNTRANSLATED
-
+我 允许你 通过 龙穴
+> CONTEXT: Map018/events/1/pages/2/17/Dialogue
+나 허용한다 통과 용혈
 > END STRING
 
 > BEGIN STRING
-你是什么？
-> CONTEXT: Map018/events/1/pages/7/16/Choice/0 < UNTRANSLATED
+这也是 我的 承诺
+> CONTEXT: Map018/events/1/pages/2/20/Dialogue
+이것은 나의 약속
+> END STRING
 
+> BEGIN STRING
+你可以 问一个 问题
+> CONTEXT: Map018/events/1/pages/2/23/Dialogue
+너 할 수 있다 한가지 묻는것
+> END STRING
+
+> BEGIN STRING
+如何离开这？
+> CONTEXT: Map018/events/1/pages/2/28/Choice/0
+어떻게 이곳을 떠날 수 있을까?
 > END STRING
 
 > BEGIN STRING
 发生什么了？
-> CONTEXT: Map018/events/1/pages/7/16/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map018/events/1/pages/2/28/Choice/1
+무슨 일이 일어난거야?
 > END STRING
 
 > BEGIN STRING
-离开
-> CONTEXT: Map018/events/1/pages/7/16/Choice/2 < UNTRANSLATED
-> CONTEXT: Map018/events/1/pages/7/24/Choice/2 < UNTRANSLATED
-> CONTEXT: Map018/events/1/pages/7/50/Choice/2 < UNTRANSLATED
-
+暴动是什么？
+> CONTEXT: Map018/events/1/pages/2/28/Choice/2
+폭동이란건 무슨말이야?
 > END STRING
 
 > BEGIN STRING
-是 怪物
-> CONTEXT: Map018/events/1/pages/7/21/Dialogue < UNTRANSLATED
-
+承诺是什么？
+> CONTEXT: Map018/events/1/pages/2/28/Choice/3
+약속은 무엇을 말하는거지?
 > END STRING
 
 > BEGIN STRING
-什么是怪物？
-> CONTEXT: Map018/events/1/pages/7/24/Choice/0 < UNTRANSLATED
-
+向下 经过 图书馆 发电室 还有 研究区
+> CONTEXT: Map018/events/1/pages/2/41/Dialogue
+아래로 지나감 도서관 발전실 그리고 연구구역
 > END STRING
 
 > BEGIN STRING
-其他人类呢？
-> CONTEXT: Map018/events/1/pages/7/24/Choice/1 < UNTRANSLATED
-
+从 塔底 大厅 离开
+> CONTEXT: Map018/events/1/pages/2/44/Dialogue
+지나 탑아래 홀 떠난다
 > END STRING
 
 > BEGIN STRING
-动物 混杂 基因
-> CONTEXT: Map018/events/1/pages/7/29/Dialogue < UNTRANSLATED
-
+还有 很远的 距离
+> CONTEXT: Map018/events/1/pages/2/47/Dialogue
+그리고 아주 먼 거리
 > END STRING
 
 > BEGIN STRING
-争抢 治疗 自相残杀
-> CONTEXT: Map018/events/1/pages/7/36/Dialogue < UNTRANSLATED
-
+瘟疫 让你们 创造了 我们
+> CONTEXT: Map018/events/1/pages/2/62/Dialogue
+전염병 당신들 창조함 우리
 > END STRING
 
 > BEGIN STRING
-大 瘟疫 避难
-> CONTEXT: Map018/events/1/pages/7/47/Dialogue < UNTRANSLATED
-
+但我们 有自己 的 意识
+> CONTEXT: Map018/events/1/pages/2/65/Dialogue
+하지만 우리 존재한다 의식
 > END STRING
 
 > BEGIN STRING
-瘟疫的事情？
-> CONTEXT: Map018/events/1/pages/7/50/Choice/0 < UNTRANSLATED
-
+我们 占据了 这座塔
+> CONTEXT: Map018/events/1/pages/2/68/Dialogue
+우리들 차지했다 이 탑
 > END STRING
 
 > BEGIN STRING
-避难的事情？
-> CONTEXT: Map018/events/1/pages/7/50/Choice/1 < UNTRANSLATED
-
+医生 与 患者
+> CONTEXT: Map018/events/1/pages/2/83/Dialogue
+의사 와 환자
 > END STRING
 
 > BEGIN STRING
-病毒 死掉 从北方来的
-> CONTEXT: Map018/events/1/pages/7/55/Dialogue < UNTRANSLATED
-
+金属片 和 喷火 铁棍
+> CONTEXT: Map018/events/1/pages/2/86/Dialogue
+금속 조각 과 불을 내뿜는 쇠몽둥이
 > END STRING
 
 > BEGIN STRING
-学者 汇聚 挽救
-> CONTEXT: Map018/events/1/pages/7/62/Dialogue < UNTRANSLATED
-
+为了 争夺 不存在 的 药物
+> CONTEXT: Map018/events/1/pages/2/89/Dialogue
+위해 쟁탈 존재하지 않은 약물
 > END STRING
 
 > BEGIN STRING
-趁他改变主意之前，赶快离开
-> CONTEXT: Map018/events/37/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map018/events/38/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map018/events/53/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map018/events/55/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map018/events/56/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map018/events/57/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map018/events/58/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map018/events/59/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map018/events/60/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map018/events/61/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map018/events/62/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map018/events/63/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map018/events/64/pages/1/0/Dialogue < UNTRANSLATED
+那个人 教我 说话 和知识
+> CONTEXT: Map018/events/1/pages/2/104/Dialogue
+그사람 가르쳐줌 말함 지식
+> END STRING
 
+> BEGIN STRING
+我 答应他 让你 通过 龙穴
+> CONTEXT: Map018/events/1/pages/2/107/Dialogue
+나 그에게 승락 시킴 통과 용혈
+> END STRING
+
+> BEGIN STRING
+他在 图书馆 等你
+> CONTEXT: Map018/events/1/pages/2/110/Dialogue
+그 있다 도서관 당신 기다림
+> END STRING
+
+> BEGIN STRING
+你该 走了
+> CONTEXT: Map018/events/1/pages/2/115/Dialogue
+너 한다 가는것
+> END STRING
+
+> BEGIN STRING
+为什么 呢
+> CONTEXT: Map018/events/19/pages/2/35/Dialogue
+> CONTEXT: Map018/events/22/pages/2/35/Dialogue
+> CONTEXT: Map018/events/23/pages/2/35/Dialogue
+> CONTEXT: Map018/events/300/pages/2/35/Dialogue
+어째서 ?
+> END STRING
+
+> BEGIN STRING
+你 喜欢 这样吗
+> CONTEXT: Map018/events/19/pages/2/38/Dialogue
+> CONTEXT: Map018/events/22/pages/2/38/Dialogue
+> CONTEXT: Map018/events/23/pages/2/38/Dialogue
+> CONTEXT: Map018/events/300/pages/2/38/Dialogue
+너 좋아한다 이런것
+> END STRING
+
+> BEGIN STRING
+这只看起来很有智慧的巨龙肯定了你对求生的渴望
+> CONTEXT: Map018/events/296/pages/0/20/Dialogue
+> CONTEXT: Map018/events/298/pages/0/20/Dialogue
+> CONTEXT: Map018/events/314/pages/0/20/Dialogue
+지혜로워 보이는 이 거대한 용은 당신의 생존에 대한 갈망을 인정한것 같다.
+> END STRING
+
+> BEGIN STRING
+它默认的点了点头
+> CONTEXT: Map018/events/296/pages/0/22/Dialogue
+> CONTEXT: Map018/events/298/pages/0/22/Dialogue
+> CONTEXT: Map018/events/314/pages/0/22/Dialogue
+그것은 조용히 고개를 끄덕였다.
+> END STRING
+
+> BEGIN STRING
+在它改变主意之前赶快离开吧
+> CONTEXT: Map018/events/296/pages/1/0/Dialogue
+> CONTEXT: Map018/events/298/pages/1/0/Dialogue
+> CONTEXT: Map018/events/314/pages/1/0/Dialogue
+그것이 마음을 바꾸기 전에 빨리 떠나자.
 > END STRING

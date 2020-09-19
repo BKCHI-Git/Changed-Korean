@@ -14,9 +14,9 @@
 > CONTEXT: Map073/events/19/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map073/events/31/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map073/events/32/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map075/events/156/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map070/events/8/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map070/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/156/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map070/events/10/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map070/events/11/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map068/events/2/pages/0/0/Dialogue < UNTRANSLATED
@@ -88,12 +88,6 @@
 …………………
 > CONTEXT: Map074/events/6/pages/0/32/Dialogue < UNTRANSLATED
 > CONTEXT: Map079/events/11/pages/0/186/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/51/pages/0/678/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/51/pages/0/696/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/51/pages/0/702/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/51/pages/1/618/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/51/pages/1/636/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/51/pages/1/642/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -121,6 +115,9 @@
 > CONTEXT: Map074/events/7/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map074/events/8/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map074/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map073/events/44/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map073/events/45/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map073/events/46/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map072/events/4/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map072/events/5/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map072/events/6/pages/0/0/Dialogue < UNTRANSLATED
@@ -141,9 +138,6 @@
 > CONTEXT: Map072/events/23/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map072/events/24/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map072/events/25/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map073/events/44/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map073/events/45/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map073/events/46/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map071/events/4/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map071/events/5/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map071/events/6/pages/0/0/Dialogue < UNTRANSLATED
@@ -186,16 +180,16 @@
 > CONTEXT: Map069/events/17/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map069/events/21/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map069/events/24/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map069/events/37/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map069/events/38/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map068/events/16/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map070/events/39/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map070/events/40/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map070/events/41/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map068/events/18/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map070/events/42/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map070/events/44/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map070/events/45/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/37/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/38/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map068/events/16/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map068/events/18/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map068/events/22/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map068/events/23/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map068/events/24/pages/0/0/Dialogue < UNTRANSLATED
@@ -212,12 +206,19 @@
 大概是小箱子……
 > CONTEXT: Map074/events/16/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map074/events/17/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map072/events/9/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map072/events/10/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map072/events/26/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map073/events/28/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map073/events/29/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map073/events/30/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map073/events/35/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map073/events/36/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map073/events/37/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map073/events/38/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map073/events/39/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map073/events/40/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map073/events/41/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/10/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/26/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map072/events/27/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map072/events/28/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map072/events/29/pages/0/0/Dialogue < UNTRANSLATED
@@ -226,13 +227,6 @@
 > CONTEXT: Map072/events/33/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map072/events/35/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map072/events/70/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map073/events/35/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map073/events/36/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map073/events/37/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map073/events/38/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map073/events/39/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map073/events/40/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map073/events/41/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map071/events/30/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map071/events/31/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map071/events/38/pages/0/0/Dialogue < UNTRANSLATED

@@ -1,6 +1,16 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 死神的烟火
-> CONTEXT: Map030/events/19/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map030/events/19/pages/0/0/Dialogue
+> CONTEXT: Map032/events/55/pages/0/0/Dialogue
+죽음의 불꽃이다.
+> END STRING
 
+> BEGIN STRING
+跳过去不难，但这狭小的通风管道里实在没有空间可以
+供你起跳
+> CONTEXT: Map030/events/27/pages/0/2/Dialogue
+> CONTEXT: Map015/events/65/pages/0/2/Dialogue
+건너뛰기는 어렵지 않겠지만, 이 좁은 통풍관에서는 
+뛸 수 있는 공간이 없다.
 > END STRING

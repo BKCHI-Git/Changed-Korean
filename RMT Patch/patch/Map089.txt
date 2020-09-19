@@ -3,7 +3,7 @@
 真的不能再回头了
 > CONTEXT: Map089/events/2/pages/0/0/Dialogue
 > CONTEXT: Map089/events/3/pages/0/0/Dialogue
-정말로 다시 뒤돌아갈 수 없어
+이제는 다시 뒤돌아갈 수 없어
 > END STRING
 
 > BEGIN STRING
@@ -341,12 +341,6 @@
 > END STRING
 
 > BEGIN STRING
-…
-> CONTEXT: Map089/events/211/pages/2/22/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 我迟早会让你变成胶兽的
 > CONTEXT: Map089/events/211/pages/2/25/Dialogue
 제가 조만간 당신을 
@@ -356,14 +350,14 @@
 > BEGIN STRING
 但不是这次了
 > CONTEXT: Map089/events/211/pages/2/27/Dialogue
-하지만 이번은 아닙니다.
+하지만 이번은 아니군요.
 > END STRING
 
 > BEGIN STRING
 检测到在逃被验者，胶兽化装置启动
+> CONTEXT: Map083/events/22/pages/4/1/Dialogue
 > CONTEXT: Map089/events/211/pages/3/1/Dialogue
 > CONTEXT: Map089/events/211/pages/4/2/Dialogue
-> CONTEXT: Map083/events/22/pages/4/1/Dialogue
 > CONTEXT: Map083/events/54/pages/4/1/Dialogue
 > CONTEXT: Map083/events/56/pages/1/1/Dialogue
 > CONTEXT: Map083/events/58/pages/2/1/Dialogue
@@ -375,10 +369,10 @@
 
 > BEGIN STRING
 胶兽化完成，拘束在逃被验者
-> CONTEXT: Map089/events/211/pages/3/38/Dialogue
-> CONTEXT: Map089/events/211/pages/4/59/Dialogue
 > CONTEXT: Map083/events/22/pages/4/32/Dialogue
+> CONTEXT: Map089/events/211/pages/3/38/Dialogue
 > CONTEXT: Map083/events/54/pages/4/32/Dialogue
+> CONTEXT: Map089/events/211/pages/4/59/Dialogue
 > CONTEXT: Map083/events/56/pages/1/32/Dialogue
 > CONTEXT: Map083/events/58/pages/2/32/Dialogue
 > CONTEXT: Map083/events/59/pages/4/32/Dialogue
@@ -699,33 +693,33 @@
 
 > BEGIN STRING
 噢
-> CONTEXT: Map089/events/212/pages/1/60/Dialogue
+> CONTEXT: Map089/events/212/pages/1/62/Dialogue
 아!
 > END STRING
 
 > BEGIN STRING
 你的想法对我而言一点也不重要
-> CONTEXT: Map089/events/212/pages/1/62/Dialogue
+> CONTEXT: Map089/events/212/pages/1/65/Dialogue
 당신의 생각은 저에게 조금도 
 중요하지 않습니다.
 > END STRING
 
 > BEGIN STRING
 我只想把你这个隐患早点解决掉
-> CONTEXT: Map089/events/212/pages/1/64/Dialogue
+> CONTEXT: Map089/events/212/pages/1/67/Dialogue
 저는 단지 당신이란 숨겨진 위협을 
 좀 더 일찍 해결하고 싶습니다.
 > END STRING
 
 > BEGIN STRING
 现在你已经无法前进了
-> CONTEXT: Map089/events/212/pages/1/66/Dialogue
+> CONTEXT: Map089/events/212/pages/1/69/Dialogue
 이제 당신은 더이상 전진할 수 없습니다.
 > END STRING
 
 > BEGIN STRING
 你的冒险似乎已经只剩下了一个结局了哦
-> CONTEXT: Map089/events/212/pages/1/68/Dialogue
+> CONTEXT: Map089/events/212/pages/1/71/Dialogue
 당신의 모험에는 결말이 
 하나만 남은 것 같습니다.
 > END STRING

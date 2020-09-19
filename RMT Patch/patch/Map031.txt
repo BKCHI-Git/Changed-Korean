@@ -4,13 +4,17 @@
 可能失去成功的机会，此外，细心观察也是非常好的解
 决问题的方法，总之，生活不是游戏，只有一次机会，
 要好好把握呢
-> CONTEXT: Map031/events/33/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/206/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map031/events/33/pages/0/1/Dialogue
+> CONTEXT: Map014/events/206/pages/0/1/Dialogue
+역경을 마주했을 땐 단번에 부딪히면 됩니다. 
+주저할수록 성공할 가능성은 낮아집니다. 
+또한 자세히 관찰하는 것도 문제를 해결하는 좋은 
+방법입니다. 요컨대 인생은 게임이 아닙니다. 
+단 한 번뿐인 기회를 잘 잡는 게 중요합니다.
 > END STRING
 
 > BEGIN STRING
 好像在哪看过
-> CONTEXT: Map031/events/33/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map031/events/33/pages/0/6/Dialogue
+어디선가 본 것 같아
 > END STRING

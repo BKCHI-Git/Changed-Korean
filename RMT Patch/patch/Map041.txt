@@ -225,10 +225,6 @@
 > BEGIN STRING
 没事
 > CONTEXT: Map041/events/45/pages/2/2/Choice/3 < UNTRANSLATED
-> CONTEXT: Map015/events/6/pages/0/8/Choice/3 < UNTRANSLATED
-> CONTEXT: Map015/events/6/pages/0/18/Choice/3 < UNTRANSLATED
-> CONTEXT: Map015/events/6/pages/0/105/Choice/3 < UNTRANSLATED
-> CONTEXT: Map025/events/51/pages/2/21/Choice/3 < UNTRANSLATED
 
 > END STRING
 
@@ -297,6 +293,7 @@
 > BEGIN STRING
 …！
 > CONTEXT: Map041/events/45/pages/2/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/142/pages/0/28/Dialogue < UNTRANSLATED
 
 > END STRING
 

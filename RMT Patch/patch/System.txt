@@ -1,18 +1,18 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
-WAKE
+开始冒险
 > CONTEXT: System/terms/new_game/
-깨어난다
+모험 시작하기
 > END STRING
 
 > BEGIN STRING
-EXIT
+中止冒险
 > CONTEXT: System/terms/shutdown/
-끝낸다
+모험 그만두기
 > END STRING
 
 > BEGIN STRING
-LOAD
+继续冒险
 > CONTEXT: System/terms/continue/
-불러온다
+모험 이어하기
 > END STRING

@@ -70,12 +70,12 @@
 > CONTEXT: Map023/events/232/pages/0/0/Dialogue
 > CONTEXT: Map012/events/86/pages/0/0/Dialogue
 > CONTEXT: Map012/events/87/pages/0/0/Dialogue
-> CONTEXT: Map010/events/207/pages/0/0/Dialogue
-> CONTEXT: Map010/events/208/pages/0/0/Dialogue
-> CONTEXT: Map010/events/209/pages/0/0/Dialogue
 > CONTEXT: Map011/events/231/pages/0/0/Dialogue
 > CONTEXT: Map011/events/232/pages/0/0/Dialogue
 > CONTEXT: Map011/events/233/pages/0/0/Dialogue
+> CONTEXT: Map010/events/207/pages/0/0/Dialogue
+> CONTEXT: Map010/events/208/pages/0/0/Dialogue
+> CONTEXT: Map010/events/209/pages/0/0/Dialogue
 > CONTEXT: Map009/events/50/pages/0/0/Dialogue
 1구짜리 콘센트.
 특별한 게 있을 리가 있나.

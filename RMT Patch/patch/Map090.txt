@@ -99,9 +99,12 @@
 > CONTEXT: Map041/events/10/pages/0/2/Choice/0
 > CONTEXT: Map041/events/10/pages/1/2/Choice/0
 > CONTEXT: Map037/events/14/pages/0/4/Choice/0
+> CONTEXT: Map032/events/26/pages/0/2/Choice/0
 > CONTEXT: Map023/events/200/pages/0/4/Choice/0
+> CONTEXT: Map025/events/45/pages/2/425/Choice/0
 > CONTEXT: Map019/events/102/pages/0/4/Choice/0
 > CONTEXT: Map017/events/224/pages/0/4/Choice/0
+> CONTEXT: Map025/events/224/pages/1/2/Choice/0
 > CONTEXT: Map015/events/1/pages/1/2/Choice/0
 > CONTEXT: Map009/events/23/pages/0/2/Choice/0
 > CONTEXT: Map002/events/26/pages/0/4/Choice/0
@@ -113,7 +116,7 @@
 > CONTEXT: Map001/events/99/pages/0/2/Choice/0
 > CONTEXT: Map001/events/100/pages/0/2/Choice/0
 > CONTEXT: Map001/events/101/pages/0/2/Choice/0
-예
+응
 > END STRING
 
 > BEGIN STRING
@@ -131,9 +134,12 @@
 > CONTEXT: Map041/events/10/pages/0/2/Choice/1
 > CONTEXT: Map041/events/10/pages/1/2/Choice/1
 > CONTEXT: Map037/events/14/pages/0/4/Choice/1
+> CONTEXT: Map032/events/26/pages/0/2/Choice/1
 > CONTEXT: Map023/events/200/pages/0/4/Choice/1
+> CONTEXT: Map025/events/45/pages/2/425/Choice/1
 > CONTEXT: Map019/events/102/pages/0/4/Choice/1
 > CONTEXT: Map017/events/224/pages/0/4/Choice/1
+> CONTEXT: Map025/events/224/pages/1/2/Choice/1
 > CONTEXT: Map015/events/1/pages/1/2/Choice/1
 > CONTEXT: Map009/events/23/pages/0/2/Choice/1
 > CONTEXT: Map002/events/26/pages/0/4/Choice/1
@@ -145,7 +151,7 @@
 > CONTEXT: Map001/events/99/pages/0/2/Choice/1
 > CONTEXT: Map001/events/100/pages/0/2/Choice/1
 > CONTEXT: Map001/events/101/pages/0/2/Choice/1
-아니오
+아니
 > END STRING
 
 > BEGIN STRING

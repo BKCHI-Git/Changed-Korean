@@ -1,132 +1,295 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
-控制图书馆大门的装置
-> CONTEXT: Map027/events/42/pages/0/0/Dialogue < UNTRANSLATED
-
+陨石会是我们这颗星球生命的起源吗？
+> CONTEXT: Map027/events/4/pages/0/1/Dialogue
+운석이 우리 지구의 생명의 기원이 될 수 있을까？
 > END STRING
 
 > BEGIN STRING
-刚才你已经从另一侧把它打开了
-> CONTEXT: Map027/events/42/pages/0/2/Dialogue < UNTRANSLATED
-
+关于月球的起源，我比较支持的是“大型碰撞”学说
+> CONTEXT: Map027/events/4/pages/0/4/Dialogue
+달의 기원에 관하여, 내가 상대적 지지 하는 것은
+"대형 충돌" 학설이다.
 > END STRING
 
 > BEGIN STRING
-金天我吃了一小快尾巴怪，未道真的不咋地
-> CONTEXT: Map027/events/49/pages/0/1/Dialogue < UNTRANSLATED
-
+在极其遥远的过去，一颗极为巨大的陨石撞击了地球，
+这次撞击扬起的尘埃笼罩了地球数千，甚至数万年
+> CONTEXT: Map027/events/4/pages/0/7/Dialogue
+아주 먼 과거, 아주 거대한 운석이 지구에 
+충돌했고, 이 충돌로 일어난 먼지가 지구를 
+수천, 심지어 수만 년 동안 뒤덮었다
 > END STRING
 
 > BEGIN STRING
-写了一些蹩脚的文字，“这个图书管里有大亮带有红色
-花文的白胶变种，奇圣”
-> CONTEXT: Map027/events/58/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/65/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/66/pages/0/0/Dialogue < UNTRANSLATED
-
+而那些尘埃冲破了引力，在太空中汇聚，最终成为了地
+球的一颗卫星：月球
+> CONTEXT: Map027/events/4/pages/0/11/Dialogue
+그리고 먼지가 중력을 헤치고, 우주에 모여서, 
+결국 지구의 위성이 되었다 : 달
 > END STRING
 
 > BEGIN STRING
-“我巴这个逢松的尾巴状百胶称为尾巴怪，说真的，他
-门的寄生方式挺有取的“
-> CONTEXT: Map027/events/59/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/67/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/68/pages/0/0/Dialogue < UNTRANSLATED
-
+这次撞击改变了地球的行进轨道，让地球进入了一片较
+为舒适的、能够创造生命的轨道
+> CONTEXT: Map027/events/4/pages/0/15/Dialogue
+이 충돌은 지구의 진행 궤도를 바꾸어 놓았고, 
+지구를 비교적 쾌적한 곳으로 진입시켜, 
+생명을 창조할 수 있는 궤도에 진입시켰다
 > END STRING
 
 > BEGIN STRING
-画着普罗捕食白胶的画面
-> CONTEXT: Map027/events/60/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/69/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/70/pages/0/0/Dialogue < UNTRANSLATED
-
+我可不相信生命会凭空出现，我坚信，就是当初那颗巨
+大的陨石上面携带了最初的生命
+> CONTEXT: Map027/events/4/pages/0/19/Dialogue
+나는 생명이 근거 없이 나타난다고는 믿지 않으며, 
+그 거대한 운석 위에 최초의 생명을 가지고 왔다고 
+굳게 믿고있다.
 > END STRING
 
 > BEGIN STRING
-用“狂草”写了一些完全看不懂的字
-> CONTEXT: Map027/events/61/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/71/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/72/pages/0/0/Dialogue < UNTRANSLATED
-
+什么样的生命能够在一颗陨石上保持活性，并在撞击中
+幸存，同时还能快速适应地球的环境？
+> CONTEXT: Map027/events/4/pages/0/23/Dialogue
+어떤 생명이 하나의 운석에서 활성을 유지하고, 
+충돌에서 살아남으면서, 지구의 환경에 빠르게 
+적응한 것이 아닐까？
 > END STRING
 
 > BEGIN STRING
-不知道画的是谁
-> CONTEXT: Map027/events/63/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/64/pages/0/0/Dialogue < UNTRANSLATED
-
+我推测，那种生命应该有某种休眠手段，例如结晶化、
+深度睡眠，同时还得要有强大的基因修改性、变异性
+> CONTEXT: Map027/events/4/pages/0/27/Dialogue
+나는 추측하건대, 그러한 생명에는 어떤 동면 
+수단이 있어야 하는데, 예를 들자면 결정화, 
+깊은 수면, 그리고 동시에 강력한 유전자 
+수정성, 변이성을 가져야 한다.
 > END STRING
 
 > BEGIN STRING
-那里的门被胶液堵住了？
-> CONTEXT: Map027/events/96/pages/0/2/Dialogue < UNTRANSLATED
-
+但目前，地球上还没有类似的生命存在
+> CONTEXT: Map027/events/4/pages/0/31/Dialogue
+그러나 현재, 지구상에는 아직 비슷한 생명이 
+존재하지 않는다.
 > END STRING
 
 > BEGIN STRING
-怎么办……还是回去吧
-> CONTEXT: Map027/events/96/pages/0/4/Dialogue < UNTRANSLATED
-
+已经解开了玻璃过廊的自动锁
+> CONTEXT: Map027/events/42/pages/0/0/Dialogue
+이미 유리 복도의 자동 잠금을 풀었다.
 > END STRING
 
 > BEGIN STRING
-我雨要一个人类，一个就好
-> CONTEXT: Map027/events/134/pages/0/1/Dialogue < UNTRANSLATED
-
+我在学着花一些慢画书上的角色！
+> CONTEXT: Map027/events/57/pages/0/1/Dialogue
+나는 마나책에 있는 캐릭터를 그려보고 있어！
 > END STRING
 
 > BEGIN STRING
-肚子俄了
-> CONTEXT: Map027/events/136/pages/0/1/Dialogue < UNTRANSLATED
-
+这个图书管里有大亮带有红色花文的白色椒兽，它们不
+喜欢尻近我，不知道它们是什么味到的呢？
+> CONTEXT: Map027/events/58/pages/0/1/Dialogue
+이 도서관에는 붉은 문양이 있는 저맥짐승이 
+아주 마니 있어, 그것들은 나에게 접끈하는 걸 
+싫어해, 쟤네는 무슨 마시 나는걸까 ？
 > END STRING
 
 > BEGIN STRING
-我画了一个书上看至的卡捅人物！
-> CONTEXT: Map027/events/137/pages/0/1/Dialogue < UNTRANSLATED
-
+我巴这个逢松的尾巴状白色胶受称为“尾巴怪”，它们
+跑得很快，蛋我的尾巴比它们好看！
+> CONTEXT: Map027/events/59/pages/0/1/Dialogue
+나는 도라다니는 꼬리로 위잠한 흰색 점액을 
+"꼬리괴물"이라 불러, 얘네들은 엄청 날렵하지만, 
+구치만 내 꼬리가 쟤네보다 더 이뻐！
 > END STRING
 
 > BEGIN STRING
-写满了难以理解的文字
-> CONTEXT: Map027/events/140/pages/0/0/Dialogue < UNTRANSLATED
-
+画着普罗捕食白色胶兽时的情景
+> CONTEXT: Map027/events/60/pages/0/0/Dialogue
+푸로가 흰 점액 짐승을 잡아먹을 때의 
+모습이 그려져 있다.
 > END STRING
 
 > BEGIN STRING
-今天我看了“怪形”
-> CONTEXT: Map027/events/145/pages/0/1/Dialogue < UNTRANSLATED
-
+用“非常张狂”的笔迹写了一些完全看不懂的字
+> CONTEXT: Map027/events/61/pages/0/0/Dialogue
+"매우 정신나간"필체로 전혀 읽을 수 없는 
+글자들이다.
 > END STRING
 
 > BEGIN STRING
-他们和我们很相似呢，但是我们没有他们那样邪恶
-> CONTEXT: Map027/events/145/pages/0/4/Dialogue < UNTRANSLATED
-
+盆栽
+> CONTEXT: Map027/events/68/pages/0/0/Dialogue
+> CONTEXT: Map024/events/43/pages/0/0/Dialogue
+> CONTEXT: Map027/events/69/pages/0/0/Dialogue
+> CONTEXT: Map027/events/76/pages/0/0/Dialogue
+> CONTEXT: Map024/events/87/pages/0/0/Dialogue
+분재다.
 > END STRING
 
 > BEGIN STRING
-我们只是为了活下去，大多数时候，被寄生的宿主还有
-自我意识
-> CONTEXT: Map027/events/145/pages/0/7/Dialogue < UNTRANSLATED
-
+很明显，这里禁止通行
+> CONTEXT: Map027/events/94/pages/0/0/Dialogue
+> CONTEXT: Map027/events/95/pages/0/0/Dialogue
+> CONTEXT: Map027/events/98/pages/0/0/Dialogue
+> CONTEXT: Map027/events/99/pages/0/0/Dialogue
+> CONTEXT: Map027/events/100/pages/0/0/Dialogue
+> CONTEXT: Map027/events/101/pages/0/0/Dialogue
+> CONTEXT: Map027/events/102/pages/0/0/Dialogue
+> CONTEXT: Map027/events/235/pages/0/0/Dialogue
+> CONTEXT: Map027/events/251/pages/0/0/Dialogue
+> CONTEXT: Map027/events/252/pages/0/0/Dialogue
+> CONTEXT: Map014/events/5/pages/0/0/Dialogue
+> CONTEXT: Map014/events/16/pages/0/0/Dialogue
+> CONTEXT: Map014/events/29/pages/0/0/Dialogue
+> CONTEXT: Map014/events/31/pages/0/0/Dialogue
+> CONTEXT: Map014/events/50/pages/0/0/Dialogue
+> CONTEXT: Map014/events/52/pages/0/0/Dialogue
+> CONTEXT: Map014/events/54/pages/0/0/Dialogue
+> CONTEXT: Map014/events/56/pages/0/0/Dialogue
+> CONTEXT: Map014/events/59/pages/0/0/Dialogue
+> CONTEXT: Map014/events/69/pages/0/0/Dialogue
+> CONTEXT: Map014/events/70/pages/0/0/Dialogue
+> CONTEXT: Map014/events/73/pages/0/0/Dialogue
+> CONTEXT: Map014/events/79/pages/0/0/Dialogue
+> CONTEXT: Map014/events/82/pages/0/0/Dialogue
+> CONTEXT: Map014/events/84/pages/0/0/Dialogue
+> CONTEXT: Map014/events/86/pages/0/0/Dialogue
+> CONTEXT: Map014/events/90/pages/0/0/Dialogue
+> CONTEXT: Map014/events/91/pages/0/0/Dialogue
+> CONTEXT: Map014/events/92/pages/0/0/Dialogue
+> CONTEXT: Map014/events/96/pages/0/0/Dialogue
+> CONTEXT: Map014/events/99/pages/0/0/Dialogue
+> CONTEXT: Map014/events/103/pages/0/0/Dialogue
+> CONTEXT: Map014/events/108/pages/0/0/Dialogue
+> CONTEXT: Map014/events/110/pages/0/0/Dialogue
+> CONTEXT: Map014/events/113/pages/0/0/Dialogue
+> CONTEXT: Map014/events/114/pages/0/0/Dialogue
+> CONTEXT: Map014/events/115/pages/0/0/Dialogue
+> CONTEXT: Map014/events/116/pages/0/0/Dialogue
+> CONTEXT: Map014/events/117/pages/0/0/Dialogue
+> CONTEXT: Map014/events/120/pages/0/0/Dialogue
+> CONTEXT: Map014/events/121/pages/0/0/Dialogue
+> CONTEXT: Map014/events/123/pages/0/0/Dialogue
+> CONTEXT: Map014/events/125/pages/0/0/Dialogue
+> CONTEXT: Map014/events/128/pages/0/0/Dialogue
+> CONTEXT: Map014/events/130/pages/0/0/Dialogue
+> CONTEXT: Map014/events/131/pages/0/0/Dialogue
+> CONTEXT: Map014/events/132/pages/0/0/Dialogue
+> CONTEXT: Map014/events/133/pages/0/0/Dialogue
+> CONTEXT: Map014/events/134/pages/0/0/Dialogue
+> CONTEXT: Map014/events/135/pages/0/0/Dialogue
+> CONTEXT: Map014/events/138/pages/0/0/Dialogue
+> CONTEXT: Map014/events/139/pages/0/0/Dialogue
+> CONTEXT: Map014/events/190/pages/0/0/Dialogue
+> CONTEXT: Map014/events/193/pages/0/0/Dialogue
+> CONTEXT: Map014/events/195/pages/0/0/Dialogue
+> CONTEXT: Map014/events/198/pages/0/0/Dialogue
+> CONTEXT: Map014/events/199/pages/0/0/Dialogue
+> CONTEXT: Map014/events/205/pages/0/0/Dialogue
+> CONTEXT: Map014/events/212/pages/0/0/Dialogue
+> CONTEXT: Map014/events/213/pages/0/0/Dialogue
+> CONTEXT: Map014/events/222/pages/0/0/Dialogue
+> CONTEXT: Map014/events/249/pages/0/0/Dialogue
+> CONTEXT: Map014/events/256/pages/0/0/Dialogue
+> CONTEXT: Map014/events/258/pages/0/0/Dialogue
+> CONTEXT: Map014/events/271/pages/0/0/Dialogue
+> CONTEXT: Map014/events/273/pages/0/0/Dialogue
+> CONTEXT: Map014/events/277/pages/0/0/Dialogue
+> CONTEXT: Map014/events/281/pages/0/0/Dialogue
+> CONTEXT: Map014/events/311/pages/0/0/Dialogue
+> CONTEXT: Map014/events/313/pages/0/0/Dialogue
+> CONTEXT: Map014/events/314/pages/0/0/Dialogue
+> CONTEXT: Map014/events/316/pages/0/0/Dialogue
+> CONTEXT: Map014/events/318/pages/0/0/Dialogue
+> CONTEXT: Map014/events/324/pages/0/0/Dialogue
+> CONTEXT: Map014/events/325/pages/0/0/Dialogue
+> CONTEXT: Map014/events/326/pages/0/0/Dialogue
+> CONTEXT: Map014/events/327/pages/0/0/Dialogue
+> CONTEXT: Map014/events/328/pages/0/0/Dialogue
+> CONTEXT: Map014/events/329/pages/0/0/Dialogue
+> CONTEXT: Map014/events/330/pages/0/0/Dialogue
+> CONTEXT: Map014/events/331/pages/0/0/Dialogue
+> CONTEXT: Map014/events/332/pages/0/0/Dialogue
+> CONTEXT: Map014/events/333/pages/0/0/Dialogue
+> CONTEXT: Map014/events/334/pages/0/0/Dialogue
+> CONTEXT: Map014/events/335/pages/0/0/Dialogue
+> CONTEXT: Map014/events/336/pages/0/0/Dialogue
+> CONTEXT: Map014/events/337/pages/0/0/Dialogue
+> CONTEXT: Map014/events/339/pages/0/0/Dialogue
+> CONTEXT: Map014/events/347/pages/0/0/Dialogue
+> CONTEXT: Map014/events/348/pages/0/0/Dialogue
+> CONTEXT: Map014/events/349/pages/0/0/Dialogue
+> CONTEXT: Map014/events/350/pages/0/0/Dialogue
+> CONTEXT: Map014/events/351/pages/0/0/Dialogue
+> CONTEXT: Map014/events/352/pages/0/0/Dialogue
+> CONTEXT: Map014/events/367/pages/0/0/Dialogue
+> CONTEXT: Map014/events/369/pages/0/0/Dialogue
+> CONTEXT: Map014/events/370/pages/0/0/Dialogue
+> CONTEXT: Map014/events/398/pages/0/0/Dialogue
+> CONTEXT: Map005/events/16/pages/0/0/Dialogue
+> CONTEXT: Map014/events/418/pages/0/0/Dialogue
+> CONTEXT: Map005/events/37/pages/0/0/Dialogue
+> CONTEXT: Map014/events/421/pages/0/0/Dialogue
+> CONTEXT: Map005/events/40/pages/0/0/Dialogue
+> CONTEXT: Map014/events/422/pages/0/0/Dialogue
+> CONTEXT: Map014/events/423/pages/0/0/Dialogue
+> CONTEXT: Map014/events/424/pages/0/0/Dialogue
+> CONTEXT: Map014/events/425/pages/0/0/Dialogue
+> CONTEXT: Map005/events/50/pages/0/0/Dialogue
+> CONTEXT: Map005/events/69/pages/0/0/Dialogue
+> CONTEXT: Map005/events/70/pages/0/0/Dialogue
+> CONTEXT: Map004/events/37/pages/0/0/Dialogue
+> CONTEXT: Map004/events/43/pages/0/0/Dialogue
+> CONTEXT: Map004/events/50/pages/0/0/Dialogue
+> CONTEXT: Map004/events/54/pages/0/0/Dialogue
+> CONTEXT: Map004/events/80/pages/0/0/Dialogue
+> CONTEXT: Map001/events/9/pages/0/0/Dialogue
+> CONTEXT: Map001/events/18/pages/0/0/Dialogue
+> CONTEXT: Map001/events/24/pages/0/0/Dialogue
+> CONTEXT: Map001/events/41/pages/0/0/Dialogue
+> CONTEXT: Map001/events/42/pages/0/0/Dialogue
+> CONTEXT: Map001/events/83/pages/0/0/Dialogue
+> CONTEXT: Map001/events/84/pages/0/0/Dialogue
+> CONTEXT: Map002/events/56/pages/0/0/Dialogue
+> CONTEXT: Map002/events/57/pages/0/0/Dialogue
+> CONTEXT: Map002/events/58/pages/0/0/Dialogue
+> CONTEXT: Map002/events/71/pages/0/0/Dialogue
+> CONTEXT: Map002/events/72/pages/0/0/Dialogue
+> CONTEXT: Map002/events/73/pages/0/0/Dialogue
+분명히, 통행을 금지하는 모양이다.
 > END STRING
 
 > BEGIN STRING
-只不过、只不过已经不是人类而已
-> CONTEXT: Map027/events/145/pages/0/11/Dialogue < UNTRANSLATED
-
+诶？
+> CONTEXT: Map027/events/96/pages/0/0/Dialogue
+에？
 > END STRING
 
 > BEGIN STRING
-我一定要消灭措别字！
-> CONTEXT: Map027/events/146/pages/0/1/Dialogue < UNTRANSLATED
-
+你远远的就能看到，前面的通道完完全全被
+堵住了
+> CONTEXT: Map027/events/96/pages/0/4/Dialogue
+당신은 멀리서 보았을때, 앞의 통로가 
+완전히 막혀있는것이 보였다.
 > END STRING
 
 > BEGIN STRING
-如里那个人类不会醒了怎么办呢……
-> CONTEXT: Map027/events/148/pages/0/1/Dialogue < UNTRANSLATED
+怪不得，那只黑色胶兽会说“等你回来”
+> CONTEXT: Map027/events/96/pages/0/7/Dialogue
+어쩐지, 검은 점액짐승이 "돌아오길 기다릴게"라고 
+말한 이유가 있었다.
+> END STRING
 
+> BEGIN STRING
+难道，真的要回去吗？
+> CONTEXT: Map027/events/96/pages/0/11/Dialogue
+설마, 정말 돌아가야 하는 건가?
+> END STRING
+
+> BEGIN STRING
+上面画着一只你从未见过的生物
+> CONTEXT: Map027/events/243/pages/0/0/Dialogue
+위에는 당신이 한 번도 본 적이 없는 
+생물이 그려져 있다.
 > END STRING

@@ -307,42 +307,6 @@ XXXX/XX/XX
 > CONTEXT: Map064/events/49/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map064/events/54/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map057/events/38/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/24/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/52/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/56/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/3/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/14/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/133/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/26/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/28/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/29/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/30/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/31/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/32/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/33/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/34/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/35/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/89/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/99/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/107/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/11/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/12/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/13/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/25/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/26/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/38/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/53/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/76/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/77/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/78/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/79/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/80/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/81/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/82/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/83/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/84/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/100/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/102/pages/0/0/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -352,44 +316,6 @@ XXXX/XX/XX
 > CONTEXT: Map064/events/50/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map064/events/51/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map057/events/39/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/25/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/39/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/51/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/1/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/11/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/12/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/13/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/135/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/22/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/23/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/24/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/36/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/39/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/40/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/41/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/88/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/114/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/14/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/15/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/16/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/21/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/22/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/24/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/41/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/54/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/66/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/67/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/68/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/69/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/70/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/71/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/72/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/73/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/74/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/75/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/96/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/98/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/99/pages/0/0/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -399,52 +325,16 @@ XXXX/XX/XX
 > CONTEXT: Map064/events/52/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map064/events/53/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map057/events/40/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/26/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/40/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/41/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/2/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/15/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/16/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/17/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/18/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/19/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/20/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/21/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/37/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/42/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/43/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/87/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/106/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/116/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/17/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/18/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/19/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/20/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/30/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/31/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/32/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/39/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/55/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/85/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/86/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/87/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/88/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/89/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/90/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/91/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/92/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/93/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/94/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/95/pages/0/0/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 一盒笔
-> CONTEXT: Map064/events/55/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map054/events/41/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map037/events/27/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/28/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/189/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map064/events/55/pages/0/0/Dialogue
+> CONTEXT: Map054/events/41/pages/0/0/Dialogue
+> CONTEXT: Map037/events/27/pages/0/0/Dialogue
+> CONTEXT: Map028/events/46/pages/0/0/Dialogue
+> CONTEXT: Map010/events/189/pages/0/0/Dialogue
+> CONTEXT: Map015/events/28/pages/0/0/Dialogue
+펜 한 갑
 > END STRING

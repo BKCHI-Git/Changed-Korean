@@ -1,66 +1,107 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 普罗的自画像
-> CONTEXT: Map028/events/2/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/6/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/8/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/9/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map028/events/2/pages/0/0/Dialogue
+> CONTEXT: Map026/events/6/pages/0/0/Dialogue
+푸로의 자화상이다.
 > END STRING
 
 > BEGIN STRING
-后面的墙壁怪怪的……
-> CONTEXT: Map028/events/2/pages/0/2/Dialogue < UNTRANSLATED
-
+画的后面好像有着什么…
+> CONTEXT: Map028/events/2/pages/0/2/Dialogue
+그림 뒤에 뭔가 있는 것 같은데…
 > END STRING
 
 > BEGIN STRING
-那个机器有点奇怪…
-> CONTEXT: Map028/events/4/pages/0/0/Dialogue < UNTRANSLATED
-
+那台机器看上去有点奇怪…
+> CONTEXT: Map028/events/4/pages/0/0/Dialogue
+기계가 좀 이상해 보이는데…
 > END STRING
 
 > BEGIN STRING
-书架
-> CONTEXT: Map028/events/14/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/15/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/16/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/17/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/18/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/19/pages/0/0/Dialogue < UNTRANSLATED
-
+地上的年液好多，我不想打扫卫升…但是踩到那上面又
+会很麻烦…
+> CONTEXT: Map028/events/39/pages/0/1/Dialogue
+바닥에 저맥이 많아, 첨소하기 싫어…
+하지만 그걸 밟으면 또 기찮아지니까…
 > END STRING
 
 > BEGIN STRING
-一堆……算了，你根本就不关心这是什么书
-> CONTEXT: Map028/events/20/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/21/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/22/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/43/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/44/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/45/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/28/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/30/pages/0/0/Dialogue < UNTRANSLATED
-
+一看就知道这是谁写的
+> CONTEXT: Map028/events/39/pages/0/7/Dialogue
+누가 쓴 건지 딱 봐도 알 수 있다.
 > END STRING
 
 > BEGIN STRING
-不要彩那个，会吧他弄星
-> CONTEXT: Map028/events/39/pages/0/1/Dialogue < UNTRANSLATED
-
+“橘子先生”早教机
+> CONTEXT: Map028/events/40/pages/0/0/Dialogue
+> CONTEXT: Map028/events/63/pages/0/0/Dialogue
+> CONTEXT: Map028/events/64/pages/0/0/Dialogue
+"귤선생" 조기교육기계
 > END STRING
 
 > BEGIN STRING
-看上去是普罗写的…
-> CONTEXT: Map028/events/39/pages/0/4/Dialogue < UNTRANSLATED
+您好，我是橘子先生！我以前从未见过您，请问您是新
+用户吗？让我来介绍一下自己吧！
+> CONTEXT: Map028/events/40/pages/0/3/Dialogue
+안녕하세요, 저는 귤선생님입니다！
+전에 당신을 만난 적이 없는데, 
+혹시 신규 사용자이신가요？
+제 자신을 소개하도록 하죠!
+> END STRING
 
+> BEGIN STRING
+我是橘子先生！又名高智能早教机O01号！我负责对您的
+孩子进行一对一的学前教育！
+> CONTEXT: Map028/events/40/pages/0/7/Dialogue
+저는 귤선생님！ 일명 고 스마트 조기교육기계
+O01호입니다！저는 당신의 아이에게 일대일의 
+취학 전 교육을 하는 책임을 맡고 있습니다！
+> END STRING
+
+> BEGIN STRING
+我的教育囊括语言、逻辑、算术等等方面！我的重点是
+教给一至五岁的孩子语言能力！
+> CONTEXT: Map028/events/40/pages/0/11/Dialogue
+저의 교육은 언어, 논리, 산수 등등을 망라합니다！
+저의 주요 장점은 1~5세 사이의 아이들에게 
+언어 능력을 가르치는 것입니다！
+> END STRING
+
+> BEGIN STRING
+本产品在语言教育方面曾荣获过多项国际专利大奖！经
+测试，本产品可以从零开始教给您的孩子一门语言！
+> CONTEXT: Map028/events/40/pages/0/15/Dialogue
+본 제품은 어학 교육 분야에서 여러 건의 
+국제특허상을 수상하였습니다！테스트를 거쳐, 
+본 제품은 제로부터 귀하의 아이들에게 
+하나의 언어를 가르칠 수 있습니다！
+> END STRING
+
+> BEGIN STRING
+本产品甚至有过成功教会一只鹦鹉流利说话的惊人成就
+，您绝对可以信赖橘子先生！
+> CONTEXT: Map028/events/40/pages/0/19/Dialogue
+본 제품은 심지어 앵무새에게 유창하게 말하는 법을 
+성공적으로 가르쳐 주는 놀라온 성과가 있었습니다, 
+당신은 귤씨를 절대적으로 신뢰해도 좋습니다！
 > END STRING
 
 > BEGIN STRING
 图画的草稿
-> CONTEXT: Map028/events/50/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/51/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/52/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map028/events/50/pages/0/0/Dialogue
+> CONTEXT: Map028/events/51/pages/0/0/Dialogue
+> CONTEXT: Map028/events/52/pages/0/0/Dialogue
+그림의 초안이다.
+> END STRING
 
+> BEGIN STRING
+一大堆的档案纸，每张纸的背面都留下了某只狼过去学
+习写字、绘画的痕迹
+> CONTEXT: Map028/events/65/pages/0/0/Dialogue
+> CONTEXT: Map028/events/66/pages/0/0/Dialogue
+> CONTEXT: Map028/events/67/pages/0/0/Dialogue
+한 무더기의 종이마다, 각각 종이 뒷면에는 
+어떤 늑대가 과거에 글씨를 배우고, 
+그림을 그린 흔적이 남아있다.
 > END STRING

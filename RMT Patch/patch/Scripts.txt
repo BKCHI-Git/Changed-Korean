@@ -79,19 +79,19 @@
 
 > BEGIN STRING
 "储存到第几个档位？"
-> CONTEXT: Scripts/Vocab/20:21 < UNTRANSLATED
+> CONTEXT: Scripts/Vocab/20:21
 "몇번위치에저장합니까?"
 > END STRING
 
 > BEGIN STRING
 "从第几个档位载入？"
-> CONTEXT: Scripts/Vocab/21:21 < UNTRANSLATED
+> CONTEXT: Scripts/Vocab/21:21
 "몇번위치를불러옵니까?"
 > END STRING
 
 > BEGIN STRING
 "档案"
-> CONTEXT: Scripts/Vocab/22:21 < UNTRANSLATED
+> CONTEXT: Scripts/Vocab/22:21
 "파일"
 > END STRING
 
@@ -271,6 +271,14 @@
 > END STRING
 
 > BEGIN STRING
+"map"
+> CONTEXT: Scripts/Game_System/72:33 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Interpreter/1636:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle/655:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 ""
 > CONTEXT: Scripts/Game_Message/40:18 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Message/63:19 < UNTRANSLATED
@@ -292,25 +300,18 @@
 > CONTEXT: Scripts/Window_NameEdit/49:44 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameEdit/62:15 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/75:14 < UNTRANSLATED
+> CONTEXT: Scripts/Window_DebugRight/52:14 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Message/169:13 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Message/283:36 < UNTRANSLATED
-> CONTEXT: Scripts/Window_DebugRight/52:14 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Name/48:33 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Name/50:35 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Name/60:40 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Shop/137:29 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Shop/168:29 < UNTRANSLATED
 > CONTEXT: Scripts/Save/334:13 < UNTRANSLATED
-> CONTEXT: Scripts/Main/15:44 < UNTRANSLATED
+> CONTEXT: Scripts/Main/16:44 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle/1108:40 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"map"
-> CONTEXT: Scripts/Game_System/72:33 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Interpreter/1636:29 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle/655:10 < UNTRANSLATED
+> CONTEXT: Scripts/Word/1031:11 < UNTRANSLATED
 
 > END STRING
 
@@ -331,11 +332,7 @@
 > CONTEXT: Scripts/Window_NameInput/12:49 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/53:37 < UNTRANSLATED
 > CONTEXT: Scripts/Screen/35:58 < UNTRANSLATED
-> CONTEXT: Scripts/steam/87:94 < UNTRANSLATED
-> CONTEXT: Scripts/steam/88:94 < UNTRANSLATED
-> CONTEXT: Scripts/steam/384:76 < UNTRANSLATED
-> CONTEXT: Scripts/steam/385:84 < UNTRANSLATED
-> CONTEXT: Scripts/steam/386:92 < UNTRANSLATED
+> CONTEXT: Scripts/Word/452:14 < UNTRANSLATED
 
 > END STRING
 
@@ -628,6 +625,33 @@
 > END STRING
 
 > BEGIN STRING
+"Window"
+> CONTEXT: Scripts/Window_Base/21:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Iconset"
+> CONTEXT: Scripts/Window_Base/157:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/"
+> CONTEXT: Scripts/Window_Base/303:52 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/340:52 < UNTRANSLATED
+> CONTEXT: Scripts/Save/166:22 < UNTRANSLATED
+> CONTEXT: Scripts/Save/169:34 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+":%2d"
+> CONTEXT: Scripts/Window_Item/77:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 "已经调用过多公共事件。"
 > CONTEXT: Scripts/Game_Interpreter/18:13 < UNTRANSLATED
 
@@ -692,33 +716,6 @@
 "\\n"
 > CONTEXT: Scripts/Game_Interpreter/1675:44 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Interpreter/1678:51 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"Window"
-> CONTEXT: Scripts/Window_Base/21:36 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"Iconset"
-> CONTEXT: Scripts/Window_Base/157:27 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"/"
-> CONTEXT: Scripts/Window_Base/303:52 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Base/340:52 < UNTRANSLATED
-> CONTEXT: Scripts/Save/166:22 < UNTRANSLATED
-> CONTEXT: Scripts/Save/169:34 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-":%2d"
-> CONTEXT: Scripts/Window_Item/77:45 < UNTRANSLATED
 
 > END STRING
 
@@ -797,7 +794,6 @@
 > CONTEXT: Scripts/Window_NameInput/22:19 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/31:19 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/40:19 < UNTRANSLATED
-> CONTEXT: Scripts/steam/310:70 < UNTRANSLATED
 
 > END STRING
 
@@ -843,6 +839,38 @@
 > CONTEXT: Scripts/Window_NameInput/22:41 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/31:41 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/40:41 < UNTRANSLATED
+> CONTEXT: Scripts/Word/108:54 < UNTRANSLATED
+> CONTEXT: Scripts/Word/110:61 < UNTRANSLATED
+> CONTEXT: Scripts/Word/112:56 < UNTRANSLATED
+> CONTEXT: Scripts/Word/114:57 < UNTRANSLATED
+> CONTEXT: Scripts/Word/116:52 < UNTRANSLATED
+> CONTEXT: Scripts/Word/118:55 < UNTRANSLATED
+> CONTEXT: Scripts/Word/120:56 < UNTRANSLATED
+> CONTEXT: Scripts/Word/122:57 < UNTRANSLATED
+> CONTEXT: Scripts/Word/124:62 < UNTRANSLATED
+> CONTEXT: Scripts/Word/126:58 < UNTRANSLATED
+> CONTEXT: Scripts/Word/128:56 < UNTRANSLATED
+> CONTEXT: Scripts/Word/130:57 < UNTRANSLATED
+> CONTEXT: Scripts/Word/132:65 < UNTRANSLATED
+> CONTEXT: Scripts/Word/134:66 < UNTRANSLATED
+> CONTEXT: Scripts/Word/136:56 < UNTRANSLATED
+> CONTEXT: Scripts/Word/138:62 < UNTRANSLATED
+> CONTEXT: Scripts/Word/140:64 < UNTRANSLATED
+> CONTEXT: Scripts/Word/142:60 < UNTRANSLATED
+> CONTEXT: Scripts/Word/144:62 < UNTRANSLATED
+> CONTEXT: Scripts/Word/146:55 < UNTRANSLATED
+> CONTEXT: Scripts/Word/759:64 < UNTRANSLATED
+> CONTEXT: Scripts/Word/759:69 < UNTRANSLATED
+> CONTEXT: Scripts/Word/838:30 < UNTRANSLATED
+> CONTEXT: Scripts/Word/840:30 < UNTRANSLATED
+> CONTEXT: Scripts/Word/840:35 < UNTRANSLATED
+> CONTEXT: Scripts/Word/883:37 < UNTRANSLATED
+> CONTEXT: Scripts/Word/921:34 < UNTRANSLATED
+> CONTEXT: Scripts/Word/923:34 < UNTRANSLATED
+> CONTEXT: Scripts/Word/923:39 < UNTRANSLATED
+> CONTEXT: Scripts/Word/1017:32 < UNTRANSLATED
+> CONTEXT: Scripts/Word/1019:37 < UNTRANSLATED
+> CONTEXT: Scripts/Word/1312:68 < UNTRANSLATED
 
 > END STRING
 
@@ -879,13 +907,6 @@
 > CONTEXT: Scripts/Window_NameInput/23:15 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/32:15 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/41:15 < UNTRANSLATED
-> CONTEXT: Scripts/steam/89:108 < UNTRANSLATED
-> CONTEXT: Scripts/steam/387:138 < UNTRANSLATED
-> CONTEXT: Scripts/steam/397:167 < UNTRANSLATED
-> CONTEXT: Scripts/steam/398:136 < UNTRANSLATED
-> CONTEXT: Scripts/steam/399:142 < UNTRANSLATED
-> CONTEXT: Scripts/steam/400:120 < UNTRANSLATED
-> CONTEXT: Scripts/steam/402:116 < UNTRANSLATED
 
 > END STRING
 
@@ -985,8 +1006,6 @@
 > CONTEXT: Scripts/Window_NameInput/24:19 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/33:19 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/42:19 < UNTRANSLATED
-> CONTEXT: Scripts/steam/385:88 < UNTRANSLATED
-> CONTEXT: Scripts/steam/386:96 < UNTRANSLATED
 
 > END STRING
 
@@ -1032,6 +1051,11 @@
 > CONTEXT: Scripts/Window_NameInput/24:41 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/33:41 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/42:41 < UNTRANSLATED
+> CONTEXT: Scripts/Word/108:49 < UNTRANSLATED
+> CONTEXT: Scripts/Word/110:56 < UNTRANSLATED
+> CONTEXT: Scripts/Word/112:61 < UNTRANSLATED
+> CONTEXT: Scripts/Word/114:52 < UNTRANSLATED
+> CONTEXT: Scripts/Word/116:57 < UNTRANSLATED
 
 > END STRING
 
@@ -1201,11 +1225,6 @@
 > CONTEXT: Scripts/Window_NameInput/55:41 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/55:45 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/55:49 < UNTRANSLATED
-> CONTEXT: Scripts/steam/197:13 < UNTRANSLATED
-> CONTEXT: Scripts/steam/211:13 < UNTRANSLATED
-> CONTEXT: Scripts/steam/263:13 < UNTRANSLATED
-> CONTEXT: Scripts/steam/307:18 < UNTRANSLATED
-> CONTEXT: Scripts/steam/308:21 < UNTRANSLATED
 
 > END STRING
 
@@ -1355,8 +1374,6 @@
 > CONTEXT: Scripts/Window_NameInput/20:23 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/29:23 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/38:23 < UNTRANSLATED
-> CONTEXT: Scripts/steam/265:23 < UNTRANSLATED
-> CONTEXT: Scripts/steam/310:29 < UNTRANSLATED
 
 > END STRING
 
@@ -1405,7 +1422,6 @@
 > CONTEXT: Scripts/Window_NameInput/20:49 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/29:49 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/38:49 < UNTRANSLATED
-> CONTEXT: Scripts/steam/415:24 < UNTRANSLATED
 
 > END STRING
 
@@ -1414,7 +1430,6 @@
 > CONTEXT: Scripts/Window_NameInput/20:53 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/29:53 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/38:53 < UNTRANSLATED
-> CONTEXT: Scripts/steam/409:24 < UNTRANSLATED
 
 > END STRING
 
@@ -1447,31 +1462,6 @@
 > CONTEXT: Scripts/Window_NameInput/21:27 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/30:27 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/39:27 < UNTRANSLATED
-> CONTEXT: Scripts/steam/87:98 < UNTRANSLATED
-> CONTEXT: Scripts/steam/88:98 < UNTRANSLATED
-> CONTEXT: Scripts/steam/89:113 < UNTRANSLATED
-> CONTEXT: Scripts/steam/90:138 < UNTRANSLATED
-> CONTEXT: Scripts/steam/91:128 < UNTRANSLATED
-> CONTEXT: Scripts/steam/199:23 < UNTRANSLATED
-> CONTEXT: Scripts/steam/383:110 < UNTRANSLATED
-> CONTEXT: Scripts/steam/383:115 < UNTRANSLATED
-> CONTEXT: Scripts/steam/384:80 < UNTRANSLATED
-> CONTEXT: Scripts/steam/387:143 < UNTRANSLATED
-> CONTEXT: Scripts/steam/388:121 < UNTRANSLATED
-> CONTEXT: Scripts/steam/389:123 < UNTRANSLATED
-> CONTEXT: Scripts/steam/390:121 < UNTRANSLATED
-> CONTEXT: Scripts/steam/391:123 < UNTRANSLATED
-> CONTEXT: Scripts/steam/392:143 < UNTRANSLATED
-> CONTEXT: Scripts/steam/393:135 < UNTRANSLATED
-> CONTEXT: Scripts/steam/394:134 < UNTRANSLATED
-> CONTEXT: Scripts/steam/395:138 < UNTRANSLATED
-> CONTEXT: Scripts/steam/396:162 < UNTRANSLATED
-> CONTEXT: Scripts/steam/398:141 < UNTRANSLATED
-> CONTEXT: Scripts/steam/400:125 < UNTRANSLATED
-> CONTEXT: Scripts/steam/401:132 < UNTRANSLATED
-> CONTEXT: Scripts/steam/402:121 < UNTRANSLATED
-> CONTEXT: Scripts/steam/403:126 < UNTRANSLATED
-> CONTEXT: Scripts/steam/410:18 < UNTRANSLATED
 
 > END STRING
 
@@ -1488,7 +1478,6 @@
 > CONTEXT: Scripts/Window_NameInput/21:37 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/30:37 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/39:37 < UNTRANSLATED
-> CONTEXT: Scripts/steam/213:23 < UNTRANSLATED
 
 > END STRING
 
@@ -1910,6 +1899,24 @@
 > END STRING
 
 > BEGIN STRING
+"%04d:"
+> CONTEXT: Scripts/Window_DebugRight/42:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"[开]"
+> CONTEXT: Scripts/Window_DebugRight/46:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"[关]"
+> CONTEXT: Scripts/Window_DebugRight/46:53 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 "MessageBack"
 > CONTEXT: Scripts/Window_Message/95:40 < UNTRANSLATED
 
@@ -2074,37 +2081,6 @@
 > END STRING
 
 > BEGIN STRING
-"%04d:"
-> CONTEXT: Scripts/Window_DebugRight/42:23 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"[开]"
-> CONTEXT: Scripts/Window_DebugRight/46:45 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"[关]"
-> CONTEXT: Scripts/Window_DebugRight/46:53 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"debug"
-> CONTEXT: Scripts/Scene_Map/163:31 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Map/182:10 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"Graphics/System/BattleStart"
-> CONTEXT: Scripts/Scene_Map/268:29 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 "Data/Actors.rvdata"
 > CONTEXT: Scripts/Scene_Title/80:37 < UNTRANSLATED
 
@@ -2113,6 +2089,13 @@
 > BEGIN STRING
 "Data/Classes.rvdata"
 > CONTEXT: Scripts/Scene_Title/81:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"debug"
+> CONTEXT: Scripts/Scene_Map/163:31 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/182:10 < UNTRANSLATED
 
 > END STRING
 
@@ -2149,6 +2132,12 @@
 > BEGIN STRING
 "Data/Troops.rvdata"
 > CONTEXT: Scripts/Scene_Title/87:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/System/BattleStart"
+> CONTEXT: Scripts/Scene_Map/268:29 < UNTRANSLATED
 
 > END STRING
 
@@ -2296,12 +2285,6 @@
 > END STRING
 
 > BEGIN STRING
-"GameOver"
-> CONTEXT: Scripts/Scene_Gameover/49:35 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 "C键 (回车) : 开 / 关"
 > CONTEXT: Scripts/Scene_Debug/63:17 < UNTRANSLATED
 
@@ -2328,6 +2311,12 @@
 > BEGIN STRING
 "R  (Pagedown) : +10"
 > CONTEXT: Scripts/Scene_Debug/69:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"GameOver"
+> CONTEXT: Scripts/Scene_Gameover/49:35 < UNTRANSLATED
 
 > END STRING
 
@@ -2416,6 +2405,7 @@
 > BEGIN STRING
 'pp'
 > CONTEXT: Scripts/Screen/20:85 < UNTRANSLATED
+> CONTEXT: Scripts/Word/146:49 < UNTRANSLATED
 
 > END STRING
 
@@ -2523,6 +2513,15 @@
 'gdi32'
 > CONTEXT: Scripts/Screen/30:44 < UNTRANSLATED
 > CONTEXT: Scripts/Screen/31:44 < UNTRANSLATED
+> CONTEXT: Scripts/Word/759:39 < UNTRANSLATED
+> CONTEXT: Scripts/Word/837:41 < UNTRANSLATED
+> CONTEXT: Scripts/Word/839:50 < UNTRANSLATED
+> CONTEXT: Scripts/Word/882:47 < UNTRANSLATED
+> CONTEXT: Scripts/Word/920:45 < UNTRANSLATED
+> CONTEXT: Scripts/Word/922:54 < UNTRANSLATED
+> CONTEXT: Scripts/Word/1016:44 < UNTRANSLATED
+> CONTEXT: Scripts/Word/1018:48 < UNTRANSLATED
+> CONTEXT: Scripts/Word/1312:37 < UNTRANSLATED
 
 > END STRING
 
@@ -2535,6 +2534,7 @@
 > BEGIN STRING
 'DeleteObject'
 > CONTEXT: Scripts/Screen/31:56 < UNTRANSLATED
+> CONTEXT: Scripts/Word/759:48 < UNTRANSLATED
 
 > END STRING
 
@@ -2659,8 +2659,8 @@
 
 > BEGIN STRING
 "无此存档!"
-> CONTEXT: Scripts/Save/139:51 < UNTRANSLATED
-
+> CONTEXT: Scripts/Save/139:51
+"세이브없음!"
 > END STRING
 
 > BEGIN STRING
@@ -2694,318 +2694,20 @@
 > END STRING
 
 > BEGIN STRING
-"SimHei"
+"黑体"
 > CONTEXT: Scripts/Main/8:22 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-"黑体"
-> CONTEXT: Scripts/Main/8:32 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"DFKai-SB"
-> CONTEXT: Scripts/Main/8:38 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"標楷體"
-> CONTEXT: Scripts/Main/8:50 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"Verdana"
-> CONTEXT: Scripts/Main/8:57 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"Arial Unicode MS"
-> CONTEXT: Scripts/Main/8:68 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 "无此文件或文件夹 - "
-> CONTEXT: Scripts/Main/15:29 < UNTRANSLATED
+> CONTEXT: Scripts/Main/16:29 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 "无法找到文件 \#{filename}."
-> CONTEXT: Scripts/Main/16:9 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'cyanic-SteamUserStatsLite'
-> CONTEXT: Scripts/steam/11:11 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamClient017'
-> CONTEXT: Scripts/steam/32:35 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'STEAMUSERSTATS_INTERFACE_VERSION011'
-> CONTEXT: Scripts/steam/33:38 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'STEAMAPPS_INTERFACE_VERSION008'
-> CONTEXT: Scripts/steam/34:33 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-/x64/
-> CONTEXT: Scripts/steam/80:6 < UNTRANSLATED
-> CONTEXT: Scripts/steam/375:6 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'steam_api64'
-> CONTEXT: Scripts/steam/84:37 < UNTRANSLATED
-> CONTEXT: Scripts/steam/379:37 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'steam_api'
-> CONTEXT: Scripts/steam/84:53 < UNTRANSLATED
-> CONTEXT: Scripts/steam/379:53 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_GetHSteamUser'
-> CONTEXT: Scripts/steam/87:68 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_GetHSteamPipe'
-> CONTEXT: Scripts/steam/88:68 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamInternal_CreateInterface'
-> CONTEXT: Scripts/steam/89:75 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamClient_GetISteamUserStats'
-> CONTEXT: Scripts/steam/90:86 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'IIIP'
-> CONTEXT: Scripts/steam/90:130 < UNTRANSLATED
-> CONTEXT: Scripts/steam/91:120 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamClient_GetISteamApps'
-> CONTEXT: Scripts/steam/91:81 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"steam_api.dll"
-> CONTEXT: Scripts/steam/105:32 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_RestartAppIfNecessary'
-> CONTEXT: Scripts/steam/383:76 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_Init'
-> CONTEXT: Scripts/steam/384:59 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_Shutdown'
-> CONTEXT: Scripts/steam/385:63 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_RunCallbacks'
-> CONTEXT: Scripts/steam/386:67 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamUserStats_RequestCurrentStats'
-> CONTEXT: Scripts/steam/387:90 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamUserStats_GetStat'
-> CONTEXT: Scripts/steam/388:78 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'PPP'
-> CONTEXT: Scripts/steam/388:114 < UNTRANSLATED
-> CONTEXT: Scripts/steam/389:116 < UNTRANSLATED
-> CONTEXT: Scripts/steam/393:128 < UNTRANSLATED
-> CONTEXT: Scripts/steam/397:160 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamUserStats_GetStat0'
-> CONTEXT: Scripts/steam/389:79 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamUserStats_SetStat'
-> CONTEXT: Scripts/steam/390:78 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'PPL'
-> CONTEXT: Scripts/steam/390:114 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamUserStats_SetStat0'
-> CONTEXT: Scripts/steam/391:79 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'PPI'
-> CONTEXT: Scripts/steam/391:116 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamUserStats_UpdateAvgRateStat'
-> CONTEXT: Scripts/steam/392:88 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'PPIII'
-> CONTEXT: Scripts/steam/392:134 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamUserStats_GetAchievement'
-> CONTEXT: Scripts/steam/393:85 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamUserStats_SetAchievement'
-> CONTEXT: Scripts/steam/394:85 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'PP'
-> CONTEXT: Scripts/steam/394:128 < UNTRANSLATED
-> CONTEXT: Scripts/steam/395:132 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamUserStats_ClearAchievement'
-> CONTEXT: Scripts/steam/395:87 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamUserStats_GetAchievementAndUnlockTime'
-> CONTEXT: Scripts/steam/396:98 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'PPPP'
-> CONTEXT: Scripts/steam/396:154 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamUserStats_GetAchievementDisplayAttribute'
-> CONTEXT: Scripts/steam/397:101 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamUserStats_GetNumAchievements'
-> CONTEXT: Scripts/steam/398:89 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamUserStats_GetAchievementName'
-> CONTEXT: Scripts/steam/399:89 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'PI'
-> CONTEXT: Scripts/steam/399:136 < UNTRANSLATED
-> CONTEXT: Scripts/steam/401:126 < UNTRANSLATED
-> CONTEXT: Scripts/steam/403:120 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamUserStats_StoreStats'
-> CONTEXT: Scripts/steam/400:81 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamUserStats_ResetAllStats'
-> CONTEXT: Scripts/steam/401:84 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamApps_BIsSubscribed'
-> CONTEXT: Scripts/steam/402:79 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'SteamAPI_ISteamApps_BIsDlcInstalled'
-> CONTEXT: Scripts/steam/403:81 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'II'
-> CONTEXT: Scripts/steam/416:18 < UNTRANSLATED
+> CONTEXT: Scripts/Main/17:9 < UNTRANSLATED
 
 > END STRING
 
@@ -3020,5 +2722,323 @@
 > BEGIN STRING
 '\\|'
 > CONTEXT: Scripts/Scene_Battle/604:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"BitmapExtension"
+> CONTEXT: Scripts/Word/45:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'TRGSSX.dll'
+> CONTEXT: Scripts/Word/103:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'DllGetVersion'
+> CONTEXT: Scripts/Word/108:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'GetInterpolationMode'
+> CONTEXT: Scripts/Word/110:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SetInterpolationMode'
+> CONTEXT: Scripts/Word/112:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'GetSmoothingMode'
+> CONTEXT: Scripts/Word/114:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SetSmoothingMode'
+> CONTEXT: Scripts/Word/116:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'RopBlt'
+> CONTEXT: Scripts/Word/118:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'pllllplll'
+> CONTEXT: Scripts/Word/118:42 < UNTRANSLATED
+> CONTEXT: Scripts/Word/120:43 < UNTRANSLATED
+> CONTEXT: Scripts/Word/122:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ClipBlt'
+> CONTEXT: Scripts/Word/120:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'BlendBlt'
+> CONTEXT: Scripts/Word/122:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'StretchBltR'
+> CONTEXT: Scripts/Word/124:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'pllllplllll'
+> CONTEXT: Scripts/Word/124:47 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SkewBltR'
+> CONTEXT: Scripts/Word/126:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'pllpllllll'
+> CONTEXT: Scripts/Word/126:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'DrawPolygon'
+> CONTEXT: Scripts/Word/128:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'pplll'
+> CONTEXT: Scripts/Word/128:47 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'FillPolygon'
+> CONTEXT: Scripts/Word/130:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ppllll'
+> CONTEXT: Scripts/Word/130:47 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'DrawRegularPolygon'
+> CONTEXT: Scripts/Word/132:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'pllllll'
+> CONTEXT: Scripts/Word/132:54 < UNTRANSLATED
+> CONTEXT: Scripts/Word/136:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'FillRegularPolygon'
+> CONTEXT: Scripts/Word/134:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'plllllll'
+> CONTEXT: Scripts/Word/134:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'DrawSpoke'
+> CONTEXT: Scripts/Word/136:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'DrawTextNAA'
+> CONTEXT: Scripts/Word/138:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'pllllpplpll'
+> CONTEXT: Scripts/Word/138:47 < UNTRANSLATED
+> CONTEXT: Scripts/Word/140:49 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'DrawTextFastA'
+> CONTEXT: Scripts/Word/140:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'GetTextSizeNAA'
+> CONTEXT: Scripts/Word/142:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'pppllp'
+> CONTEXT: Scripts/Word/142:50 < UNTRANSLATED
+> CONTEXT: Scripts/Word/144:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'GetTextSizeFastA'
+> CONTEXT: Scripts/Word/144:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SaveToBitmapA'
+> CONTEXT: Scripts/Word/146:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\"\#{DLL_NAME}.dll\\" が見つからない、"
+> CONTEXT: Scripts/Word/150:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"もしくは古いバージョンを使用しています。"
+> CONTEXT: Scripts/Word/151:7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'l!3'
+> CONTEXT: Scripts/Word/340:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'l!2'
+> CONTEXT: Scripts/Word/453:42 < UNTRANSLATED
+> CONTEXT: Scripts/Word/519:25 < UNTRANSLATED
+> CONTEXT: Scripts/Word/524:24 < UNTRANSLATED
+> CONTEXT: Scripts/Word/536:25 < UNTRANSLATED
+> CONTEXT: Scripts/Word/541:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"wrong number of arguments(\#{args.size} of \#{args.size < 2 ? 2 : 4})"
+> CONTEXT: Scripts/Word/558:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"wrong number of arguments(\#{args.size} of \#{args.size < 5 ? 5 : 7})"
+> CONTEXT: Scripts/Word/569:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'l!4'
+> CONTEXT: Scripts/Word/600:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'CreateRectRgn'
+> CONTEXT: Scripts/Word/838:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'llll'
+> CONTEXT: Scripts/Word/838:22 < UNTRANSLATED
+> CONTEXT: Scripts/Word/921:26 < UNTRANSLATED
+> CONTEXT: Scripts/Word/1019:29 < UNTRANSLATED
+> CONTEXT: Scripts/Word/1312:60 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'CreateRectRgnIndirect'
+> CONTEXT: Scripts/Word/840:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'CreateRoundRectRgn'
+> CONTEXT: Scripts/Word/883:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'llllll'
+> CONTEXT: Scripts/Word/883:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'CreateEllipticRgn'
+> CONTEXT: Scripts/Word/921:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'CreateEllipticRgnIndirect'
+> CONTEXT: Scripts/Word/923:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'CreatePolygonRgn'
+> CONTEXT: Scripts/Word/1017:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'pll'
+> CONTEXT: Scripts/Word/1017:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'CreatePolyPolygonRgn'
+> CONTEXT: Scripts/Word/1019:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ll"
+> CONTEXT: Scripts/Word/1032:39 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'CombineRgn'
+> CONTEXT: Scripts/Word/1312:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"CombinedRegionExp"
+> CONTEXT: Scripts/Word/1347:32 < UNTRANSLATED
 
 > END STRING

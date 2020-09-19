@@ -1,26 +1,53 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 令人熟悉的活性胶液
-> CONTEXT: Map029/events/9/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/9/pages/0/0/Dialogue
+익숙한 살아있는 점액이다.
 > END STRING
 
 > BEGIN STRING
 指引
-> CONTEXT: Map029/events/13/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/14/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/15/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/13/pages/0/0/Dialogue
+길을 안내하고있다.
 > END STRING
 
 > BEGIN STRING
-有没有什么办法能够叫醒那只狐狸呢……
-> CONTEXT: Map029/events/16/pages/0/2/Dialogue < UNTRANSLATED
-
+维修通道也被粘液封路了，这团粘液看上去像是不久之
+前才到这里来的
+> CONTEXT: Map029/events/16/pages/0/0/Dialogue
+수리 통로도 점액에 의해 막혔고, 이 점액 덩어리는 
+얼마 전에 이곳에 온 것처럼 보인다.
 > END STRING
 
 > BEGIN STRING
-狐狸身旁的那个窄窄通道是…？
-> CONTEXT: Map029/events/16/pages/0/4/Dialogue < UNTRANSLATED
+你不知道你能不能直接跳过去，你决定不去冒那个险
+> CONTEXT: Map029/events/16/pages/0/3/Dialogue
+당신은 직접 뛰어 넘을 수 있는지 없는지 모르니, 
+위험을 무릅쓰지 않기로 결정했다.
+> END STRING
 
+> BEGIN STRING
+但这下该往哪里走呢？
+> CONTEXT: Map029/events/16/pages/0/5/Dialogue
+하지만 이번엔 어디로 가야 할까？
+> END STRING
+
+> BEGIN STRING
+沉睡着的白色胶兽身旁的那个窄窄的第三个通道是…？
+> CONTEXT: Map029/events/16/pages/0/10/Dialogue
+잠자고 있던 하얀 점액짐승 옆에 있는 
+그 좁은 세번째 통로는…？
+> END STRING
+
+> BEGIN STRING
+哪里才能找到那个入口呢？
+> CONTEXT: Map029/events/16/pages/0/15/Dialogue
+어디서 그 입구를 찾을 수 있을까？
+> END STRING
+
+> BEGIN STRING
+那只挡在路上的沉睡着的白色胶兽又该怎么处理呢？
+> CONTEXT: Map029/events/16/pages/0/17/Dialogue
+길을 막고 잠든 저 흰 점액짐승을 
+어떻게 처리해야 할까？
 > END STRING

@@ -1,18 +1,30 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
-一棵树，曾经应是个盆栽
-> CONTEXT: Map021/events/62/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/7/pages/0/5/Dialogue < UNTRANSLATED
-
+…我有些担心，就跟过来了
+> CONTEXT: Map021/events/13/pages/5/13/Dialogue
+…네가 걱정되서, 따라왔어
 > END STRING
 
 > BEGIN STRING
-盆栽的根扎进了树叶堆中
-> CONTEXT: Map021/events/63/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/64/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/38/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/56/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/175/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/176/pages/0/0/Dialogue < UNTRANSLATED
+…你、你不喜欢这样吗
+> CONTEXT: Map021/events/13/pages/5/16/Dialogue
+…너, 이러는거 싫어하니
+> END STRING
 
+> BEGIN STRING
+…那好吧…
+> CONTEXT: Map021/events/13/pages/5/18/Dialogue
+…그렇구나…
+> END STRING
+
+> BEGIN STRING
+…还有，那个，一定要注意安全哦！
+> CONTEXT: Map021/events/13/pages/5/35/Dialogue
+…그, 저기, 안전에 꼭 신경써！
+> END STRING
+
+> BEGIN STRING
+…我会乖乖的在图书馆等你回来的！
+> CONTEXT: Map021/events/13/pages/5/37/Dialogue
+…나 얌전히 도서관에서 네가 돌아오길 기다릴께！
 > END STRING

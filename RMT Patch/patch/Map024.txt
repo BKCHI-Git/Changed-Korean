@@ -1,83 +1,135 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
-一滩看似有生命的粘液在门的另一边死死地黏住了门缝
-> CONTEXT: Map024/events/1/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/13/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/42/pages/3/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/46/pages/3/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-没什么好看的
-> CONTEXT: Map024/events/45/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/47/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/48/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/49/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/50/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/51/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/52/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/53/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/54/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/55/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/56/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/138/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/57/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/139/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/58/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/59/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/141/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/60/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/142/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/61/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/143/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/62/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/144/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/63/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/64/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/65/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/66/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/67/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/68/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/147/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/69/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/70/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/149/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/71/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/150/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/72/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/151/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/73/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/152/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/74/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/153/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/75/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/154/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/76/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/77/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/78/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/79/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/80/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/81/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-扫地机器人
-> CONTEXT: Map024/events/82/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map009/events/35/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-轮子坏了
-> CONTEXT: Map024/events/82/pages/0/2/Dialogue < UNTRANSLATED
-
+一团粘液黏住了门
+> CONTEXT: Map024/events/1/pages/2/0/Dialogue
+> CONTEXT: Map021/events/13/pages/2/0/Dialogue
+> CONTEXT: Map020/events/42/pages/3/0/Dialogue
+> CONTEXT: Map020/events/46/pages/3/0/Dialogue
+점액이 문에 달라붙어있다.
 > END STRING
 
 > BEGIN STRING
 那家伙在尝试开门，看来没办法轻易甩掉了…快找地方
-藏起来！…那个地方的后面应该可以躲藏！
-> CONTEXT: Map024/events/100/pages/0/0/Dialogue < UNTRANSLATED
+藏起来！但究竟躲在哪里才能躲开它呢？
+> CONTEXT: Map024/events/100/pages/0/0/Dialogue
+놈이 문을 열려고 시도하고 있어, 
+섣불리 따돌릴 수도 없고… 숨을 장소를 찾아야해！ 
+하지만 도대체 어디에 숨어야 
+그것을 피할 수 있을까?
+> END STRING
 
+> BEGIN STRING
+生命究竟是如何诞生的？随着越来越多的考古发现，我
+们已经有了全新的猜测
+> CONTEXT: Map024/events/142/pages/0/1/Dialogue
+과연 생명은 어떻게 탄생한 것일까？
+점점 더 많은 고고학적 발견에 따라, 
+우리는 이미 완전히 새로운 추측을 했다.
+> END STRING
+
+> BEGIN STRING
+最初始最简单的生命，混沌且痴愚，它们没有任何意识
+，只是顺着远古的水流移动
+> CONTEXT: Map024/events/142/pages/0/5/Dialogue
+가장 간단한 초기의 생명, 모호하고 어리석은, 
+그것들은 의식을 가지지 못한, 
+단지 먼 옛날의 물줄기를 따라 움직인다.
+> END STRING
+
+> BEGIN STRING
+没有任何思考能力的单细胞生命们被水流击碎、被沙粒
+碾压、被高温灼烧，它们脆弱不堪
+> CONTEXT: Map024/events/142/pages/0/9/Dialogue
+아무런 사고력도 없는 단세포 생명들은 
+물살에 부서지고, 모래알에 빻아지고, 
+고온에 그슬리고, 그것들은 매우 약했다.
+> END STRING
+
+> BEGIN STRING
+但很快，一些变异出了基础移动能力的单细胞生命出现
+了，新的器官使得这些单细胞生命可以避开危险
+> CONTEXT: Map024/events/142/pages/0/13/Dialogue
+그러나 곧, 몇몇 기초 변이 능력을 가진 
+단세포 생명들이 나타났고, 새로운 기관들은 
+이 단세포 생명들이 위험을 피할 수 있게 하였다.
+> END STRING
+
+> BEGIN STRING
+为了观察，它们进化出了目，为了移动，它们进化出了
+肢体，为了处理复杂的情况，它们进化出了脑
+> CONTEXT: Map024/events/142/pages/0/17/Dialogue
+관찰하기 위해서, 그것들은 눈에 띄게 진화했고, 
+이동하기 위해, 그것들은 사지를 진화시켰고, 
+복잡한 상황을 위해, 뇌를 진화시켰다.
+> END STRING
+
+> BEGIN STRING
+无法进化的弱小生命无法适应环境而被淘汰，而能够进
+化的生命在良性“变异”与“模仿”中逐渐强大
+> CONTEXT: Map024/events/142/pages/0/21/Dialogue
+진화할 수 없는 약한 생명은 환경에 적응하지 
+못하고 도태되는 반면에, 진화할 수 있는 생명은 
+양성의 "변이"와 "모방"으로 점점 강해지고 있었다.
+> END STRING
+
+> BEGIN STRING
+由无到有，由少至多，时间杀死了劣，留下了良，最终
+诞生了真正意义上的，如今我们所知的“生命”
+> CONTEXT: Map024/events/142/pages/0/25/Dialogue
+무에서 유, 소에서 다, 시간은 열등함을 죽이고, 
+양성을 남겨, 진정한 의미의, 오늘날 
+우리가 알고 있는 "생명"이 탄생했다.
+> END STRING
+
+> BEGIN STRING
+在远古时期，只有那些最擅长“变异”和“模仿”的生
+命才能存留下来
+> CONTEXT: Map024/events/142/pages/0/29/Dialogue
+먼 옛날부터, "변이"와 "모방"을 가장 잘한 
+생명만이 살아남을 수 있었던것이다.
+> END STRING
+
+> BEGIN STRING
+那么，是否可以理解成，远古时期的单细胞生命，非常
+擅长“变异”和“模仿”呢？
+> CONTEXT: Map024/events/142/pages/0/33/Dialogue
+그렇다면, 먼 옛날 단세포 생명만이, 
+"변이"와 "모방"을 아주 잘했다고, 
+그렇게 말할 수 있을까？
+> END STRING
+
+> BEGIN STRING
+近期，一种新的物种被发现，这些生存在极寒冻原的狼
+被称为“极地白狼”
+> CONTEXT: Map024/events/145/pages/0/1/Dialogue
+최근에, 새로운 종들이 발견되었는데, 
+이 극지방 지대에 사는 늑대들은 
+"극지방의 흰 늑대"라고 불린다.
+> END STRING
+
+> BEGIN STRING
+这种狼通身雪白，与普通的狼最大的不同是它们的脚掌
+，为了能在雪地上奔跑，它们的脚掌非常宽大
+> CONTEXT: Map024/events/145/pages/0/5/Dialogue
+이 늑대는 몸이 하얗고, 보통 늑대와 가장 
+다른 점은 발바닥인데, 눈 위를 달릴 수 있기 위해, 
+그들의 발바닥은 매우 넓었다.
+> END STRING
+
+> BEGIN STRING
+而且，这个宽大的脚掌，有着更加灵活的趾关节，这能
+让极地白狼更方便的在雪地上挖掘、扒抓
+> CONTEXT: Map024/events/145/pages/0/9/Dialogue
+게다가, 이 넓은 발바닥은, 더욱 유연한 발가락 
+관절을 가지고 있는데, 이것은 극지방의 흰 늑대가 
+눈밭을 더욱 쉽게 파헤칠 수 있게 해 준다.
+> END STRING
+
+> BEGIN STRING
+兴许以后，它们甚至会用它们灵活的脚掌来使用一些工
+具，就像猩猩那样，相信我，它们真的做的到的
+> CONTEXT: Map024/events/145/pages/0/13/Dialogue
+아마 나중에, 그것들은 그 유연한 발바닥으로 
+몇몇 도구들을 사용할 것이다, 오랑우탄이 그랬듯이, 
+믿어도 좋다, 그것들이 정말로 해낼것이다.
 > END STRING

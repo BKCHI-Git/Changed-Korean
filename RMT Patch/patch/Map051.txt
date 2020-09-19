@@ -91,22 +91,21 @@
 
 > BEGIN STRING
 太小了，钻不进去
-> CONTEXT: Map051/events/253/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map051/events/253/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map050/events/261/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map044/events/188/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map037/events/16/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map033/events/3/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map032/events/48/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map032/events/66/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map032/events/66/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map030/events/29/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/18/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/219/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/88/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/181/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/198/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/253/pages/0/0/Dialogue
+> CONTEXT: Map051/events/253/pages/1/0/Dialogue
+> CONTEXT: Map050/events/261/pages/0/0/Dialogue
+> CONTEXT: Map044/events/188/pages/0/0/Dialogue
+> CONTEXT: Map037/events/16/pages/0/0/Dialogue
+> CONTEXT: Map033/events/3/pages/0/0/Dialogue
+> CONTEXT: Map030/events/29/pages/0/0/Dialogue
+> CONTEXT: Map029/events/18/pages/0/0/Dialogue
+> CONTEXT: Map032/events/48/pages/0/0/Dialogue
+> CONTEXT: Map032/events/66/pages/0/0/Dialogue
+> CONTEXT: Map023/events/219/pages/0/0/Dialogue
+> CONTEXT: Map011/events/181/pages/0/0/Dialogue
+> CONTEXT: Map011/events/198/pages/0/0/Dialogue
+> CONTEXT: Map015/events/88/pages/0/0/Dialogue
+너무 작아서, 뚫고 들어갈 수 없다.
 > END STRING
 
 > BEGIN STRING

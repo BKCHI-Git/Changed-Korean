@@ -1,344 +1,427 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
-这里很适合藏身
-> CONTEXT: Map020/events/7/pages/0/1/Dialogue < UNTRANSLATED
-이곳은 몸을 숨기기에 안성맞춤이다.
-> END STRING
-
-> BEGIN STRING
-枝叶茂盛，树干很粗，比你的细腰粗……
-> CONTEXT: Map020/events/7/pages/0/7/Dialogue < UNTRANSLATED
-가지와 잎이 무성하고, 줄기가 굵어
-당신의 가느다란 허리보다 굵다..
+这棵树的树干完美的挡住了你
+> CONTEXT: Map020/events/25/pages/0/3/Dialogue
+나무의 줄기가 당신을 완벽하게 가리고 있다.
 > END STRING
 
 > BEGIN STRING
 水晶挡住了门
-> CONTEXT: Map020/events/28/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/29/pages/0/0/Dialogue < UNTRANSLATED
-크리스털이 문을 막고 있다.
+> CONTEXT: Map020/events/28/pages/0/0/Dialogue
+> CONTEXT: Map020/events/29/pages/0/0/Dialogue
+수정이 문을 막고있다.
 > END STRING
 
 > BEGIN STRING
-果子，上面粘着一些黑色的胶
-> CONTEXT: Map020/events/32/pages/0/0/Dialogue < UNTRANSLATED
-과일이다.
-위에는 검정색 고무 같은 게
-조금 묻어 있다.
+橘子，上面粘着一些黑色的粘液
+> CONTEXT: Map020/events/32/pages/0/0/Dialogue
+귤에는, 위에 약간의 검은 점액이 붙어있다.
 > END STRING
 
 > BEGIN STRING
-……是他们摘给我的吗
-> CONTEXT: Map020/events/32/pages/0/2/Dialogue < UNTRANSLATED
-...그들이, 이걸 따준 걸까?
+是那些黑色胶兽摘给你的吗
+> CONTEXT: Map020/events/32/pages/0/2/Dialogue
+저 검은 점액짐승들이 따준 걸까
 > END STRING
 
 > BEGIN STRING
-你迫不及待的剥开果子的外皮，吃了起来
-> CONTEXT: Map020/events/32/pages/0/8/Dialogue < UNTRANSLATED
-한 치 망설임도 없이,
-당신은 과일 껍질을 벗기고
-먹기 시작했다.
+你迫不及待的剥开橘子的外皮，吃了起来
+> CONTEXT: Map020/events/32/pages/0/9/Dialogue
+당신은 지체없이 귤의 껍질을 벗기고, 먹기 시작햇다.
 > END STRING
 
 > BEGIN STRING
-果子很酸，但你感觉比饿肚子好多了
-> CONTEXT: Map020/events/32/pages/0/11/Dialogue < UNTRANSLATED
-과일은 매우 셨지만..
-배고픈 것보다는 훨씬 나은 것 같아.
+橘子很酸，但你感觉比饿肚子好多了
+> CONTEXT: Map020/events/32/pages/0/12/Dialogue
+귤은 매우 시지만, 배고픈 것보단 훨씬 나은 것 같다.
 > END STRING
 
 > BEGIN STRING
 不知为何，你想家了
-> CONTEXT: Map020/events/32/pages/0/13/Dialogue < UNTRANSLATED
-웬일인지, 당신은 집에 대해
-생각해보기 시작했다.
+> CONTEXT: Map020/events/32/pages/0/14/Dialogue
+왠지 모르게, 당신은 집 생각이 났다.
 > END STRING
 
 > BEGIN STRING
-你强忍眼泪，吃完了果子
-> CONTEXT: Map020/events/32/pages/0/16/Dialogue < UNTRANSLATED
-겨우 눈물을 참기 위해,
-당신은 남은 과일을 먹었다.
+你强忍着眼泪，吃完了橘子
+> CONTEXT: Map020/events/32/pages/0/17/Dialogue
+당신은 눈물을 꾹 참고, 귤을 다 먹었다.
 > END STRING
 
 > BEGIN STRING
-吃完了果子，你感觉身体好多了
-> CONTEXT: Map020/events/32/pages/0/23/Dialogue < UNTRANSLATED
-과일을 다 먹고 나니,
-몸이 조금 나아진 기분이다.
+你感觉身体好多了
+> CONTEXT: Map020/events/32/pages/0/29/Dialogue
+당신은 몸이 많이 좋아졌다고 느꼈다.
 > END STRING
 
 > BEGIN STRING
 你收拾了一下吃剩的果核与皮，站起身
-> CONTEXT: Map020/events/32/pages/0/29/Dialogue < UNTRANSLATED
-당신은 과일 껍질과 씨를 치우고 일어났다.
+> CONTEXT: Map020/events/32/pages/0/31/Dialogue
+당신은 먹다 남은 과일과 껍질을 치우고, 일어났다.
 > END STRING
 
 > BEGIN STRING
 该出发了
-> CONTEXT: Map020/events/32/pages/0/31/Dialogue < UNTRANSLATED
-이제 출발할 시간이야.
+> CONTEXT: Map020/events/32/pages/0/36/Dialogue
+출발할 시간이다.
 > END STRING
 
 > BEGIN STRING
-是不是看到什么吃的东西了…吃完了再走
-> CONTEXT: Map020/events/39/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/42/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/46/pages/0/0/Dialogue < UNTRANSLATED
-
+惊雷科技，一家世界闻名的科技公司，其业务主要包括
+高端建筑建造业和生物基因工程等高精尖技术行业
+> CONTEXT: Map020/events/33/pages/0/1/Dialogue
+천둥 과학 기술, 세계적으로 유명한 과학기술 회사는, 
+주로 고급 건축업과 생물 유전자 공학과 같은 고도의 
+정교한 기술 업종을 포함하고 있다.
 > END STRING
 
 > BEGIN STRING
-这一次，你在阳台上看到了不一样的东西；
-一个…浑身胶液泛着反光的…的猫科动物
-> CONTEXT: Map020/events/39/pages/2/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/3/Dialogue < UNTRANSLATED
-이번엔 베란다에서 다른 걸 봤다.
-온몸의 접착제 같은 게 반짝이는 고양잇과 동물.
+此公司作风极为低调，其工程多为极密，目前已知的此
+公司的公开建筑项目只有北方的“堡垒高塔”
+> CONTEXT: Map020/events/33/pages/0/5/Dialogue
+이 회사의 활동은 매우 저조하고, 공사들은 
+대부분 극비이며, 현재 알려진 공개 건축 
+프로젝트는 북방의 "고탑요새" 뿐이다.
 > END STRING
 
 > BEGIN STRING
-他气呼呼的推着一个箱子——就是你刚刚推出来的那个
-> CONTEXT: Map020/events/39/pages/2/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/8/Dialogue < UNTRANSLATED
-그것은, 화가 난 듯 상자를 걷어차고 있었다.
+有证据指出，此公司也有为各国首脑建造核避难所，并
+且南极冰封种子库也极有可能为此公司建造
+> CONTEXT: Map020/events/33/pages/0/9/Dialogue
+증거에 따르면, 이 회사는 각국 정상을 위한 
+핵 대피소를 보유하고 있으며, 또한 남극에 있는 
+종자 보관소도 이 회사가 지었을 가능성이 있다.
 > END STRING
 
 > BEGIN STRING
-你一下子明白了为什么那些箱子会归位了……
-> CONTEXT: Map020/events/39/pages/2/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/11/Dialogue < UNTRANSLATED
-상자들이 제자리로 돌아가는 건
-저 고양이 때문이였구나..
+地上好像有吃的东西
+> CONTEXT: Map020/events/39/pages/0/0/Dialogue
+> CONTEXT: Map020/events/40/pages/0/0/Dialogue
+> CONTEXT: Map020/events/41/pages/0/0/Dialogue
+> CONTEXT: Map020/events/42/pages/0/0/Dialogue
+> CONTEXT: Map020/events/45/pages/0/0/Dialogue
+> CONTEXT: Map020/events/46/pages/0/0/Dialogue
+바닥에 먹을 것 처럼 보이는 것이 있다.
 > END STRING
 
 > BEGIN STRING
-怎么办？
-> CONTEXT: Map020/events/39/pages/2/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/14/Dialogue < UNTRANSLATED
-어떡하지?
+这一次，你在阳台上看到了不一样的东西，那是一只浑
+身粘液泛着反光的的猫科胶兽
+> CONTEXT: Map020/events/39/pages/2/3/Dialogue
+> CONTEXT: Map020/events/40/pages/2/3/Dialogue
+> CONTEXT: Map020/events/41/pages/2/3/Dialogue
+이번엔, 당신은 베란다에서 다른 것을 보았는데, 
+그것은 온몸의 점액이 반사광을 띠는 
+고양이과의 점액짐승이었다.
+> END STRING
+
+> BEGIN STRING
+它气呼呼的推着一个箱子，就是你之前推出来的那个
+> CONTEXT: Map020/events/39/pages/2/9/Dialogue
+> CONTEXT: Map020/events/40/pages/2/9/Dialogue
+> CONTEXT: Map020/events/41/pages/2/9/Dialogue
+그것은 화가 난채로 상자 하나를 밀고 있었고, 
+그건 바로 전에 당신이 밀어낸 것이였다.
+> END STRING
+
+> BEGIN STRING
+你一下子明白了为什么那些箱子会归位了
+> CONTEXT: Map020/events/39/pages/2/11/Dialogue
+> CONTEXT: Map020/events/40/pages/2/11/Dialogue
+> CONTEXT: Map020/events/41/pages/2/11/Dialogue
+당신은 왜 상자들이 제자리로 돌아가는지
+단번에 깨달았다.
+> END STRING
+
+> BEGIN STRING
+它还没有发现你，你要怎么办？
+> CONTEXT: Map020/events/39/pages/2/13/Dialogue
+> CONTEXT: Map020/events/40/pages/2/13/Dialogue
+> CONTEXT: Map020/events/41/pages/2/13/Dialogue
+그것은 아직 당신을 발견하지 못했는데, 
+당신은 어떻게 할까?
 > END STRING
 
 > BEGIN STRING
 溜过去
-> CONTEXT: Map020/events/39/pages/2/16/Choice/0 < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/16/Choice/0 < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/16/Choice/0 < UNTRANSLATED
-몰래 지나간다
+> CONTEXT: Map020/events/39/pages/2/15/Choice/0
+> CONTEXT: Map020/events/40/pages/2/15/Choice/0
+> CONTEXT: Map020/events/41/pages/2/15/Choice/0
+몰래 지나간다.
 > END STRING
 
 > BEGIN STRING
 退回去
-> CONTEXT: Map020/events/39/pages/2/16/Choice/1 < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/16/Choice/1 < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/16/Choice/1 < UNTRANSLATED
-되돌아간다
+> CONTEXT: Map020/events/39/pages/2/15/Choice/1
+> CONTEXT: Map020/events/40/pages/2/15/Choice/1
+> CONTEXT: Map020/events/41/pages/2/15/Choice/1
+되돌아간다.
+> END STRING
+
+> BEGIN STRING
+你蹑手蹑脚的走了出去，试图不被发现
+> CONTEXT: Map020/events/39/pages/2/18/Dialogue
+> CONTEXT: Map020/events/40/pages/2/18/Dialogue
+> CONTEXT: Map020/events/41/pages/2/18/Dialogue
+당신은 발각되지 않으려고, 살금살금 걸어나갔다.
 > END STRING
 
 > BEGIN STRING
 那只豹子立即就注意到了你，然后愤怒的一爪把你抓住
-> CONTEXT: Map020/events/39/pages/2/19/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/19/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map020/events/39/pages/2/20/Dialogue
+> CONTEXT: Map020/events/40/pages/2/20/Dialogue
+> CONTEXT: Map020/events/41/pages/2/20/Dialogue
+그 표범은 즉시 당신을 바라보았고,
+ 분노한 발짓에 당신은 붙잡혔다.
 > END STRING
 
 > BEGIN STRING
-你被他按在了栏杆上
-> CONTEXT: Map020/events/39/pages/2/22/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/22/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/22/Dialogue < UNTRANSLATED
-
+你被它用力的按在了栏杆上
+> CONTEXT: Map020/events/39/pages/2/22/Dialogue
+> CONTEXT: Map020/events/40/pages/2/22/Dialogue
+> CONTEXT: Map020/events/41/pages/2/22/Dialogue
+당신은 그것에 의해 힘껏 난간에 눌렸다.
 > END STRING
 
 > BEGIN STRING
-你试着去挣扎，但是身后的豹子已经紧紧地把你摁在那
-里，动弹不得
-> CONTEXT: Map020/events/39/pages/2/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/27/Dialogue < UNTRANSLATED
-
+你试着去挣扎，但是身后的豹子已经紧紧的把你摁在那
+里，你动弹不得
+> CONTEXT: Map020/events/39/pages/2/28/Dialogue
+> CONTEXT: Map020/events/40/pages/2/28/Dialogue
+> CONTEXT: Map020/events/41/pages/2/28/Dialogue
+당신은 발버둥치려 했지만, 뒤에 있는 표범이 
+당신을 강하게 누르고 있기에, 움직일 수가 없었다.
 > END STRING
 
 > BEGIN STRING
-一种黏黏的…有一点凉，又很温柔的感觉缓缓地袭上你
-的后颈
-> CONTEXT: Map020/events/39/pages/2/32/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/32/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/32/Dialogue < UNTRANSLATED
-
+一种黏黏的…有一点凉，又很温柔的感觉缓缓袭上你的
+后颈，你用力的推那只豹子，但无济于事
+> CONTEXT: Map020/events/39/pages/2/31/Dialogue
+> CONTEXT: Map020/events/40/pages/2/31/Dialogue
+> CONTEXT: Map020/events/41/pages/2/31/Dialogue
+일종의 끈적끈적한… 약간의 서늘함, 또 부드러운 
+느낌이 천천히 당신의 뒷덜미를 덮쳐갔고, 
+그 표범을 힘껏 밀쳤지만, 소용이 없었다.
 > END STRING
 
 > BEGIN STRING
-你看向四周，除了你那结实的裤子，什么有用的东西都
-没有，你用力的推那只豹子，但无济于事
-> CONTEXT: Map020/events/39/pages/2/35/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/35/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/35/Dialogue < UNTRANSLATED
-
+这只豹子的身体虽然是粘液构成的，但你的力气完全没
+可能拼得过它
+> CONTEXT: Map020/events/39/pages/2/34/Dialogue
+> CONTEXT: Map020/events/40/pages/2/34/Dialogue
+> CONTEXT: Map020/events/41/pages/2/34/Dialogue
+이 표범의 몸은 점액으로 이루어져 있지만, 
+그러나 당신의 힘은 그것을 이길 수 있을만큼 
+강하지 않았다.
 > END STRING
 
 > BEGIN STRING
-你的后背没知觉了…冰冷的感觉消失了，取而代之的是
-温暖和舒适…
-> CONTEXT: Map020/events/39/pages/2/40/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/40/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/40/Dialogue < UNTRANSLATED
-
+你的后背失去了知觉，后颈冰冷的感觉消失了，取而代
+之的是温暖和舒适
+> CONTEXT: Map020/events/39/pages/2/41/Dialogue
+> CONTEXT: Map020/events/40/pages/2/41/Dialogue
+> CONTEXT: Map020/events/41/pages/2/41/Dialogue
+당신의 등은 감각을 잃었고, 
+뒷목의 차가운 느낌은 사라졌으며, 
+대신 따뜻함과 편안함이 감돌았다.
 > END STRING
 
 > BEGIN STRING
-你的后背盖满了粘液，这些东西渐渐地被你吸收掉，进
-入你的血液，你觉得骨头咯吱作响
-> CONTEXT: Map020/events/39/pages/2/44/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/44/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/44/Dialogue < UNTRANSLATED
-
+你清楚的明白自己正在变成其他的东西，粘液正在从你
+的后背漫上你的身体
+> CONTEXT: Map020/events/39/pages/2/44/Dialogue
+> CONTEXT: Map020/events/40/pages/2/44/Dialogue
+> CONTEXT: Map020/events/41/pages/2/44/Dialogue
+당신은 자신이 다른 것으로 변하고 있다는 것을 
+확실하게 알았고, 점액이 당신의 등으로부터 
+몸을 채워나가고 있었다.
 > END STRING
 
 > BEGIN STRING
-你清楚的明白自己正在变成…其他的东西，但是这种感
-觉很舒服…
-> CONTEXT: Map020/events/39/pages/2/48/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/48/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/48/Dialogue < UNTRANSLATED
-
+粘液开始顺着脖子漫上你的脸，如同有生命一般钻进你
+的口鼻，奇怪的是你并没有感到任何呼吸不畅
+> CONTEXT: Map020/events/39/pages/2/51/Dialogue
+> CONTEXT: Map020/events/40/pages/2/51/Dialogue
+> CONTEXT: Map020/events/41/pages/2/51/Dialogue
+점액이 목을 따라 당신의 얼굴을 덮기 시작하고, 
+생명이 있는 것처럼 입과 코로 들어가는데, 
+이상한 것은 당신의 호흡이 막히지 않았다는 것이다.
 > END STRING
 
 > BEGIN STRING
-你的腿也软掉了
-> CONTEXT: Map020/events/39/pages/2/52/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/52/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/52/Dialogue < UNTRANSLATED
-
+身后的豹子均匀的把它自己身上的粘液涂抹到了你的手
+臂上，你的指尖长出了肉球，变成了动物才有的肉垫
+> CONTEXT: Map020/events/39/pages/2/54/Dialogue
+> CONTEXT: Map020/events/40/pages/2/54/Dialogue
+> CONTEXT: Map020/events/41/pages/2/54/Dialogue
+뒤의 표범은 자신의 몸에 있는 점액을 고르게 
+당신의 팔에 발랐고, 당신의 손끝엔 육구가 자라나, 
+동물의 발바닥이 되었다. 
 > END STRING
 
 > BEGIN STRING
-粘液顺着脖子漫上你的脸，如同有生命一般钻进你的口
-鼻，奇怪的是你并没有感到任何呼吸不畅
-> CONTEXT: Map020/events/39/pages/2/57/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/57/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/57/Dialogue < UNTRANSLATED
-
+你的尾椎麻酥酥的，屁股痒痒的，一根蓬松又硕大的粘
+液尾巴正从那里生长出来
+> CONTEXT: Map020/events/39/pages/2/57/Dialogue
+> CONTEXT: Map020/events/40/pages/2/57/Dialogue
+> CONTEXT: Map020/events/41/pages/2/57/Dialogue
+꼬리뼈가 저릿저릿하고, 엉덩이 쪽이 근질근질하다가, 
+복슬하고 큼지막한 점액 꼬리 하나가 자라났다.
 > END STRING
 
 > BEGIN STRING
-身后的豹子均匀的把他自己身上的粘液涂抹到了你的手
-臂上，你的指尖长出了肉球，变成了动物的肉垫
-> CONTEXT: Map020/events/39/pages/2/61/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/61/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/61/Dialogue < UNTRANSLATED
-
+你彻底放弃了反抗，倒不如说是投入了它的怀抱，你被
+豹子的粘液整个的包裹了起来，但又好像没有
+> CONTEXT: Map020/events/39/pages/2/64/Dialogue
+> CONTEXT: Map020/events/40/pages/2/64/Dialogue
+> CONTEXT: Map020/events/41/pages/2/64/Dialogue
+당신은 반항을 완전히 포기하고, 
+오히려 그것의 품에 안겼고, 
+당신은 표범의 점액으로 온통 싸여 있었지만, 
+또한 없는 것 같았다.
 > END STRING
 
 > BEGIN STRING
-你的尾椎麻酥酥的，这其实是有一根粘液尾巴正从那里
-生长出来
-> CONTEXT: Map020/events/39/pages/2/65/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/65/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/65/Dialogue < UNTRANSLATED
-
+外面的这层粘液好似你原有的皮肤一样自然，感觉很奇
+妙，但你现在能听到更多微小的声音
+> CONTEXT: Map020/events/39/pages/2/67/Dialogue
+> CONTEXT: Map020/events/40/pages/2/67/Dialogue
+> CONTEXT: Map020/events/41/pages/2/67/Dialogue
+바깥의 이 점액은 본래의 피부처럼 자연스럽고, 
+기묘하게 느껴졌지만, 당신은 지금 작은 소리를 
+더 많이 들을 수 있었다.
 > END STRING
 
 > BEGIN STRING
-你彻底放弃了反抗…不如说是投入了他的怀抱，你被整
-个的包裹了起来，但又好像没有，外面的这层粘液好似
-你本就有的皮肤一样自然
-> CONTEXT: Map020/events/39/pages/2/70/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/70/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/70/Dialogue < UNTRANSLATED
-
+你的手臂和腿好像也变得更加强壮了，但你的意识也变
+得模糊了起来
+> CONTEXT: Map020/events/39/pages/2/70/Dialogue
+> CONTEXT: Map020/events/40/pages/2/70/Dialogue
+> CONTEXT: Map020/events/41/pages/2/70/Dialogue
+당신의 팔과 다리도 더 강해진 것 같았는데, 
+이후 의식이 흐려지기 시작햇다.
 > END STRING
 
 > BEGIN STRING
-感觉很奇妙，但你现在能听到更多微小的声音，手臂和
-腿好像也更加强壮
-> CONTEXT: Map020/events/39/pages/2/75/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/75/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/75/Dialogue < UNTRANSLATED
-
+粘液在改造你的身体，同时也在影响着你的心志
+> CONTEXT: Map020/events/39/pages/2/73/Dialogue
+> CONTEXT: Map020/events/40/pages/2/73/Dialogue
+> CONTEXT: Map020/events/41/pages/2/73/Dialogue
+점액은 당신의 몸을 개조하고, 
+동시에 마음에 영향을 주고 있었다.
 > END STRING
 
 > BEGIN STRING
-意识变得模糊起来了
-> CONTEXT: Map020/events/39/pages/2/79/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/79/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/79/Dialogue < UNTRANSLATED
-
+粘液钻进了你的大脑，将如何做一只胶兽的信息，一股
+脑的灌了进去
+> CONTEXT: Map020/events/39/pages/2/75/Dialogue
+> CONTEXT: Map020/events/40/pages/2/75/Dialogue
+> CONTEXT: Map020/events/41/pages/2/75/Dialogue
+점액은 당신의 뇌에 들어가고, 어떻게 점액 짐승 
+한마리를 만들 것인가에 대한 정보를, 
+한꺼번에 집어넣었다.
 > END STRING
 
 > BEGIN STRING
-你知道自己是谁…知道自己要做什么…但就是无法抗拒
-这种感觉，野性的感觉，奇妙的感觉
-> CONTEXT: Map020/events/39/pages/2/82/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/82/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/82/Dialogue < UNTRANSLATED
-
+你知道自己是谁…知道现在的情况，但就是无法抗拒这
+种感觉，这种充满野性与奇妙的感觉
+> CONTEXT: Map020/events/39/pages/2/78/Dialogue
+> CONTEXT: Map020/events/40/pages/2/78/Dialogue
+> CONTEXT: Map020/events/41/pages/2/78/Dialogue
+당신은 자신이 누구인지… 현재 상황을 알고 있지만, 
+그 감각은 거스를 수 없는, 
+야성과 같은 기묘한 느낌으로 가득 차있었다.
 > END STRING
 
 > BEGIN STRING
-尽管自己粘乎乎的，你却很开心
-> CONTEXT: Map020/events/39/pages/2/86/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/86/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/86/Dialogue < UNTRANSLATED
-
+你已经不再是个人类，尽管自己粘乎乎的，你却很开心
+> CONTEXT: Map020/events/39/pages/2/81/Dialogue
+> CONTEXT: Map020/events/40/pages/2/81/Dialogue
+> CONTEXT: Map020/events/41/pages/2/81/Dialogue
+당신은 더 이상 인간이 아니다, 
+자신이 끈적끈적해졌지만, 오히려 즐거웠다.
 > END STRING
 
 > BEGIN STRING
 是因为粘液的影响，还是因为这种感觉真的很棒呢？
-> CONTEXT: Map020/events/39/pages/2/89/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/89/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/89/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map020/events/39/pages/2/83/Dialogue
+> CONTEXT: Map020/events/40/pages/2/83/Dialogue
+> CONTEXT: Map020/events/41/pages/2/83/Dialogue
+점액의 영향 때문일까, 
+아니면 이런 느낌이 정말 좋았기 때문일까？
 > END STRING
 
 > BEGIN STRING
-你睁开了眼，像个婴儿，身上满是新生的粘液
-> CONTEXT: Map020/events/39/pages/2/93/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/93/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/93/Dialogue < UNTRANSLATED
-
+你睁开了眼，身上满是新生的粘液，你成为了一只新生
+的胶兽
+> CONTEXT: Map020/events/39/pages/2/89/Dialogue
+> CONTEXT: Map020/events/40/pages/2/89/Dialogue
+> CONTEXT: Map020/events/41/pages/2/89/Dialogue
+당신이 눈을 뜨자, 몸은 새로 생긴 점액으로 가득 차, 
+새로 태어난 점액짐승이 되었다.
 > END STRING
 
 > BEGIN STRING
-你再次看向身后的豹子
-> CONTEXT: Map020/events/39/pages/2/96/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/96/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/96/Dialogue < UNTRANSLATED
-
+你再次看向身后的豹子，它正宠溺的看着他新生的同类
+> CONTEXT: Map020/events/39/pages/2/92/Dialogue
+> CONTEXT: Map020/events/40/pages/2/92/Dialogue
+> CONTEXT: Map020/events/41/pages/2/92/Dialogue
+당신은 다시 뒤의 표범을 보았고, 그것은 지금 
+새로 태어난 같은 무리를 총애하고 있었다.
 > END STRING
 
 > BEGIN STRING
-他正宠溺的看着他新生的同类
-> CONTEXT: Map020/events/39/pages/2/99/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/40/pages/2/99/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/41/pages/2/99/Dialogue < UNTRANSLATED
-
+束缚，也不知不觉之间变成了拥抱
+> CONTEXT: Map020/events/39/pages/2/94/Dialogue
+> CONTEXT: Map020/events/40/pages/2/94/Dialogue
+> CONTEXT: Map020/events/41/pages/2/94/Dialogue
+속박은, 어느새 포옹이 되었다.
 > END STRING
 
 > BEGIN STRING
-这里的人就那么喜欢锁门吗
-> CONTEXT: Map020/events/42/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/46/pages/1/0/Dialogue < UNTRANSLATED
-이곳 사람들은,
-문 잠그는 걸 좋아하는 걸까...?
+打不开，这里的人就那么喜欢把门锁住吗
+> CONTEXT: Map020/events/42/pages/1/1/Dialogue
+> CONTEXT: Map020/events/46/pages/1/1/Dialogue
+열리지 않는다. 여기 사람들은 
+그냥 문 잠그는 걸 좋아하는 것 같다.
 > END STRING
 
 > BEGIN STRING
-是不是看到什么吃的东西了…吃完了再看
-> CONTEXT: Map020/events/45/pages/0/0/Dialogue < UNTRANSLATED
-
+这台机器连接着右边的门，但需要密码
+> CONTEXT: Map020/events/45/pages/1/0/Dialogue
+이 기계는 오른쪽 문에 연결되어 있지만, 
+비밀번호가 필요하다.
 > END STRING
 
 > BEGIN STRING
-什么都没有
-> CONTEXT: Map020/events/58/pages/0/0/Dialogue < UNTRANSLATED
-아무것도 없다.
+试着输入看看吧
+> CONTEXT: Map020/events/45/pages/1/2/Dialogue
+입력해볼까
 > END STRING
+
+> BEGIN STRING
+密码错误…
+> CONTEXT: Map020/events/45/pages/1/15/Dialogue
+> CONTEXT: Map001/events/49/pages/0/34/Dialogue
+비밀번호가 잘못됬다…
+> END STRING
+
+> BEGIN STRING
+在附近找找线索吧
+> CONTEXT: Map020/events/45/pages/1/17/Dialogue
+> CONTEXT: Map001/events/49/pages/0/36/Dialogue
+근처에서 단서를 찾아보자
+> END STRING
+
+> BEGIN STRING
+已经解开了图书馆大门的密码锁
+> CONTEXT: Map020/events/45/pages/2/0/Dialogue
+도서관 정문 비밀번호는 이미 풀었다.
+> END STRING
+
+> BEGIN STRING
+隔壁房间字谜的达案，就是密马
+> CONTEXT: Map020/events/76/pages/0/1/Dialogue
+옆방 글자 수수께끼의 답, 바로 비밀번호다
+> END STRING
+
